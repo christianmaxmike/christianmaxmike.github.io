@@ -33,9 +33,8 @@ My primary interests in research are:
 <li>Online Optimization</li>
 <li>Stream Processing</li>
 <li>Modeling and Querying Uncertain Spatio-Temporal Data</li>
-<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>
+<!--<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>-->
 <li>Uncertain Sensor Networks</li>
 <li>Uncertain Data Stream Processing</li>
 </ul>
 <br/>
-Generally, anything related to Data Mining in Uncertain Data in a streaming environment. 
