@@ -38,3 +38,11 @@ My primary interests in research are:
 <li>Uncertain Data Stream Processing</li>
 </ul>
 <br/>
+
+Peer reviewed for conferences in ...
+<ul>
+<li>2015: <a href="http://www.cikm-2015.org">CIKM'15</a>, <a href="http://sigspatial2015.sigspatial.org">SIGSPATIAL'15</a></li>
+<li>2016: <a href="http://sigspatial2016.sigspatial.org">SIGSPATIAL'16</a>, <a href="http://www.kdd.org/kdd2016/">KDD'16</a>, <a href="http://ssdbm2016.org">SSDBM'16</a></li>
+<li>2017: <a href="http://icde2017.sdsc.edu">ICDE'17</a>, <a href="http://ada.suda.edu.cn/dasfaa2017/">DASFAA'17</a></li>
+</ul>
+
