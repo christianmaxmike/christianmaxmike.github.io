@@ -16,13 +16,13 @@ You can use all kinds of markdown here. See [the guide](/markdown/).
 ![alt text](/images/500x300.png "Logo Title Text 1")-->
 
 I am a PhD Candidate at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich in the <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group</a>.
-I'm advised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz/">Prof. Matthias Renz</a>. 
+I'm supervised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz/">Prof. Matthias Renz</a> (George Mason University). 
 
 ## International research stays and cooperations
 <ul>
-<li>09/22/2016 - 12/17/2016: Currently, i'm attending the <a href="http://www.berkeley.edu">University of California, Berkeley</a> working at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science</a> in collaboration with the <a href="https://amplab.cs.berkeley.edu">AMPLab</a>.</li>
-<li>07/29/2016 - 08/10/2016: Research at the <a href="http://www.ust.hk">Hong Kong University of Science and Technology</a> and <a href="http://www.hku.hk">University of Hong Kong</a></li>
-<li>09/10/2015 - 09/25/2015: Working at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science</a> at the <a href="http://www.berkeley.edu">University of California, Berkeley</a></li>
+<li>09/22/2016 - 12/17/2016: Research stay at the <a href="http://www.berkeley.edu">University of California, Berkeley</a> at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science (BIDS)</a> </li>
+<li>07/29/2016 - 08/10/2016: Research stay at the <a href="http://www.ust.hk">Hong Kong University of Science and Technology</a> and <a href="http://www.hku.hk">University of Hong Kong</a></li>
+<li>09/10/2015 - 09/25/2015: Research stay at the <a href="http://www.berkeley.edu">University of California, Berkeley</a> at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science (BIDS)</a> </li>
 </ul>
 
 ## Research 
