@@ -46,3 +46,9 @@ Peer reviewed for conferences in ...
 <li>2017: <a href="http://icde2017.sdsc.edu">ICDE'17</a>, <a href="http://ada.suda.edu.cn/dasfaa2017/">DASFAA'17</a></li>
 </ul>
 
+## Affiliations
+<ul>
+<li><a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group</a></li>
+<li><a href="http://dsl.ifi.lmu.de/data-science-lab">Data Science Lab, LMU Munich</a></li>
+<li><a href="http://datalab.gmu.edu">DataLab, GMU</a></li>
+</ul>
