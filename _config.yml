@@ -112,7 +112,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : 
+  wikipedia        :
+  dblp             : "<a href='http://dblp.uni-trier.de/pers/hd/f/Frey:Christian'>DBLP</a>"
 
 include: 
   - .htaccess
