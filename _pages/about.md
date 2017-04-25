@@ -20,6 +20,7 @@ I'm supervised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz
 
 ## International research stays and cooperations
 <ul>
+<li>04/24/2017 - 05/13/2017: Research stay at the <a href="https://www2.gmu.edu">George Mason University, Fairfax</a> at the <a href="https://cos.gmu.edu/cds/">Department of Computational and Data Sciences (CDS)</a> </li>
 <li>09/22/2016 - 12/17/2016: Research stay at the <a href="http://www.berkeley.edu">University of California, Berkeley</a> at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science (BIDS)</a> </li>
 <li>07/29/2016 - 08/10/2016: Research stay at the <a href="http://www.ust.hk">Hong Kong University of Science and Technology</a> and <a href="http://www.hku.hk">University of Hong Kong</a></li>
 <li>09/10/2015 - 09/25/2015: Research stay at the <a href="http://www.berkeley.edu">University of California, Berkeley</a> at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science (BIDS)</a> </li>
