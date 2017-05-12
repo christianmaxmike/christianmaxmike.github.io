@@ -114,6 +114,7 @@ author:
   youtube          :
   wikipedia        :
   dblp             : http://dblp.uni-trier.de/pers/hd/f/Frey:Christian
+  researchgate     : https://www.researchgate.net/profile/Christian_Frey7
 
 include: 
   - .htaccess
