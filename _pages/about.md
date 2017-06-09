@@ -15,7 +15,7 @@ You can use all kinds of markdown here. See [the guide](/markdown/).
 ## Images
 ![alt text](/images/500x300.png "Logo Title Text 1")-->
 
-I am a PhD Candidate at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich in the <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group</a>.
+I am a PhD Candidate at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich in the <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group and Data Mining</a>.
 I'm supervised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz/">Prof. Matthias Renz</a> (George Mason University). 
 
 ## International research stays and cooperations
@@ -26,19 +26,23 @@ I'm supervised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz
 <li>09/10/2015 - 09/25/2015: Research stay at the <a href="http://www.berkeley.edu">University of California, Berkeley</a> at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science (BIDS)</a> </li>
 </ul>
 
+<!--
 ## Research 
 My primary interests in research are: 
 <ul>
 <li>Probabilistic Graphs</li>
 <li>Graph clustering applications and methods</li>
 <li>Online Optimization</li>
-<li>Stream Processing</li>
-<li>Modeling and Querying Uncertain Spatio-Temporal Data</li>
+<!--<li>Stream Processing</li>-->
+<!--<li>Modeling and Querying Uncertain Spatio-Temporal Data</li>-->
 <!--<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>-->
-<li>Uncertain Sensor Networks</li>
-<li>Uncertain Data Stream Processing</li>
-</ul>
+<!--<li>Uncertain Sensor Networks</li>
+<!--<li>Heterogeneous Information Networks</li>
+<li></li>
+<!--<li>Uncertain Data Stream Processing</li>-->
+<!--</ul>
 <br/>
+-->
 
 Peer reviewed for conferences in ...
 <ul>
