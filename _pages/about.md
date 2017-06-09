@@ -26,9 +26,9 @@ I'm supervised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz
 <li>09/10/2015 - 09/25/2015: Research stay at the <a href="http://www.berkeley.edu">University of California, Berkeley</a> at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science (BIDS)</a> </li>
 </ul>
 
-<!--
+
 ## Research 
-My primary interests in research are: 
+<!--My primary interests in research are: 
 <ul>
 <li>Probabilistic Graphs</li>
 <li>Graph clustering applications and methods</li>
