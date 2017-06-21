@@ -51,6 +51,12 @@ Peer reviewed for conferences in ...
 <li>2017: <a href="http://icde2017.sdsc.edu">ICDE'17</a>, <a href="http://ada.suda.edu.cn/dasfaa2017/">DASFAA'17</a></li>
 </ul>
 
+Supervised Theses:
+<ul>
+<li>MT - Hasse J., Application of Energy Consumption Forecasts using Deep Learning</li>
+<li>MT - Borutta F., Analysis Framework for spatio-temporal soccer data</li>
+</ul>
+
 ## Affiliations
 <ul>
 <li><a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group</a></li>
