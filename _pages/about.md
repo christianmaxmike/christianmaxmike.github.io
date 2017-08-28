@@ -28,11 +28,14 @@ I'm supervised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz
 
 
 ## Research 
-<!--My primary interests in research are: 
+--My primary interests in research are: 
 <ul>
 <li>Probabilistic Graphs</li>
 <li>Graph clustering applications and methods</li>
 <li>Online Optimization</li>
+<li>Graph Mining</li>
+<li>Graph Exploration</li>
+<li>Graph Databases</li>
 <!--<li>Stream Processing</li>-->
 <!--<li>Modeling and Querying Uncertain Spatio-Temporal Data</li>-->
 <!--<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>-->
@@ -42,7 +45,7 @@ I'm supervised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz
 <!--<li>Uncertain Data Stream Processing</li>-->
 <!--</ul>
 <br/>
--->
+
 
 Peer reviewed for conferences in ...
 <ul>
