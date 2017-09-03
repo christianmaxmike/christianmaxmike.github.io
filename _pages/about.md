@@ -61,7 +61,7 @@ Supervised Theses:
 
 ## Affiliations
 <ul>
-<li><a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group</a></li>
-<li><a href="http://dsl.ifi.lmu.de/data-science-lab">Data Science Lab, LMU Munich</a></li>
-<li><a href="http://datalab.gmu.edu">DataLab, GMU</a></li>
+<li><a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group, Ludwig-Maximilians-Universit&auml;t M&uuml;nchen</a></li>
+<li><a href="http://dsl.ifi.lmu.de/data-science-lab">Data Science Lab, Ludwig-Maximilians-Universit&auml;t M&uuml;nchen</a></li>
+<li><a href="http://datalab.gmu.edu">DataLab, George Mason University</a></li>
 </ul>
