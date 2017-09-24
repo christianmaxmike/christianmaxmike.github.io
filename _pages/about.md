@@ -31,7 +31,7 @@ I'm supervised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz
 My primary interests in research are: 
 <ul>
 <li>Probabilistic Graphs</li>
-<li>Graph clustering applications and methods</li>
+<!--<li>Graph clustering applications and methods</li>-->
 <li>Online Optimization</li>
 <li>Graph Mining</li>
 <li>Graph Exploration</li>
@@ -42,6 +42,7 @@ My primary interests in research are:
 <!--<li>Uncertain Sensor Networks</li>-->
 <li>Heterogeneous Information Networks</li>
 <!--<li>Uncertain Data Stream Processing</li>-->
+<li>Knowledge Graph</li>
 </ul>
 <br/>
 
