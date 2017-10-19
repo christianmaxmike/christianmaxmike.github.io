@@ -40,10 +40,9 @@ My primary interests in research are:
 <!--<li>Modeling and Querying Uncertain Spatio-Temporal Data</li>-->
 <!--<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>-->
 <!--<li>Uncertain Sensor Networks</li>-->
-<li>Heterogeneous Information Networks</li>
+<li>Heterogeneous Information Networks / Knowledge Graphs</li>
 <!--<li>Uncertain Data Stream Processing</li>-->
-<li>Knowledge Graphs</li>
-<li>Machine Learning on Graphs and Networks</li>
+<li>Machine Learning on Knowledge Graphs</li>
 </ul>
 <br/>
 
