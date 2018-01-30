@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "About"
+permalink: /about/
+author_profile: true
+---
+{% include base_path %}
+
 # About Me
 
 <ul>
