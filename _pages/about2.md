@@ -6,15 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 
-# About Me
-
 <ul>
 <li>Name: Christian Frey</li>
 <li>job: PhD Candidate</li>
 <li>Department: Dept. of Databases and Data Mining</li>
 
 
-## Passion
+# Passion
 Playing piano:<br/>
 <a href="https://youtu.be/c9VydyJSo5w">Josh Groban - You Raise Me Up</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c9VydyJSo5w
