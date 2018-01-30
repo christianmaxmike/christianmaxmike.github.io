@@ -13,7 +13,7 @@ author_profile: true
  </ul>
 
 
-## Passion
+## Hobby
 Playing piano:<br/>
 <a href="https://youtu.be/c9VydyJSo5w">Josh Groban - You Raise Me Up</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c9VydyJSo5w
