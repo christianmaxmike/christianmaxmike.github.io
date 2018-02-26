@@ -32,15 +32,15 @@ My primary interests in research are:
 <ul>
 <li>Probabilistic Graphs</li>
 <!--<li>Graph clustering applications and methods</li>-->
-<li>Online Optimization</li>
-<li>Graph Databases/Mining/Exploration</li>
+<!--<li>Online Optimization</li>-->
+<!--><li>Graph Databases/Mining/Exploration</li>-->
 <!--<li>Graph Exploration</li>-->
 <!--<li>Graph Databases</li>-->
 <!--<li>Stream Processing</li>-->
 <!--<li>Modeling and Querying Uncertain Spatio-Temporal Data</li>-->
 <!--<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>-->
 <!--<li>Uncertain Sensor Networks</li>-->
-<li>Heterogeneous Information Networks / Knowledge Graphs</li>
+<li>Knowledge Graphs / Heterogeneous Information Networks</li>
 <!--<li>Uncertain Data Stream Processing</li>-->
 <li>Machine Learning on Knowledge Graphs</li>
 </ul>
