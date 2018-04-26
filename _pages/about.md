@@ -53,6 +53,7 @@ Peer reviewed for conferences in ...
 <li>2016: <a href="http://sigspatial2016.sigspatial.org">SIGSPATIAL'16</a>, <a href="http://www.kdd.org/kdd2016/">KDD'16</a>, <a href="http://ssdbm2016.org">SSDBM'16</a></li>
 <li>2017: <a href="http://icde2017.sdsc.edu">ICDE'17</a>, <a href="http://ada.suda.edu.cn/dasfaa2017/">DASFAA'17</a>, <a href="http://www.kdd.org/kdd2017/">KDD'17</a>, <a href="http://www.vldb.org/2017/">VLDB'17</a></li>
 <li>2018: <a href="https://icde2018.org">ICDE'18</a>, <a href="http://www.ict.griffith.edu.au/conferences/dasfaa2018/">DASFAA'18</a></li>
+<li>2019: <a href="http://vldb.org/2019/">VLDB'19</a></li>
 </ul>
 
 Supervised Theses:
