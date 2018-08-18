@@ -48,7 +48,7 @@
     
     {% if post.patentOffice and post.applicationNumber and post.publicationDate %}
       <p><i>{{ post.patentOffice }} {{ post.applicationNumber }}</i>, {{ post.publicationDate | default: "1900-01-01" | date: "%Y" }} </p>
-    {% endif}    
+    {% endif %}    
 
     {% if post.excerpt %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
