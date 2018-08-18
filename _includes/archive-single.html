@@ -47,7 +47,7 @@
     {% endif %}
     
     {% if post.patentOffice and post.applicationNumber and post.publicationDate %}
-      <p><i>{{ post.patentOffice }} {{ post.applicationNumber }}</i>, {{ post.publicationDate | default: "1900-01-01" | date: "%Y" }} </p>
+      <p><i>{{ post.patentOffice }} Patent {{ post.applicationNumber }}</i>, {{ post.publicationDate | default: "1900-01-01" | date: "%Y" }} </p>
     {% endif %}    
 
     {% if post.excerpt %}
