@@ -54,13 +54,6 @@
       {% if post.collection == "teaching" %}
         <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
       {% endif %}
-
-<!--
-    {% case post.collection %}
-        {% when "teaching" %}
-          <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-      { % endcase %}
--->
     {% endif %}
  
     {% if post.citation and post.paperurl %}
