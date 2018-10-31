@@ -16,7 +16,7 @@ You can use all kinds of markdown here. See [the guide](/markdown/).
 ![alt text](/images/500x300.png "Logo Title Text 1")-->
 
 I am a PhD Candidate at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich in the <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group and Data Mining</a>.
-I'm supervised by <a href="https://cos.gmu.edu/cds/faculty-profile-matthias-renz/">Prof. Matthias Renz</a> (George Mason University). 
+I'm supervised by <a href="https://www.ai.informatik.uni-kiel.de/ai/team/prof-dr-matthias-renz">Prof. Dr. Matthias Renz</a> (Christian-Albrechts-Universität zu Kiel). 
 
 ## International research stays and cooperations
 <ul>
