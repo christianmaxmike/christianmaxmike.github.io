@@ -1,7 +1,7 @@
 ---
 title: Optimizing Information Flow in Probabilistic Graphs
 collection: projects
-permalink:  /projects/01-2016
+permalink:  /mindnotes/test
 date: 2016-10-01
 ---
 
