@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "MindNotes"
-    url: /mindnotes/
+#  - title: "MindNotes"
+#    url: /mindnotes/
     
   - title: "About"
     url: /about/
