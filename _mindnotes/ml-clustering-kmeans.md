@@ -1,7 +1,7 @@
 ---
 title: "MindNote - Ml - Clustering - Kmeans"
 collection: mindnotes
-permalink: /mindnote/ml-clustering-kmeans
+permalink: /mindnotes/ml-clustering-kmeans
 ---
 
 
