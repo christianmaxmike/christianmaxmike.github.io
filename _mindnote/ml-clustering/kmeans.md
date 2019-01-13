@@ -1,3 +1,9 @@
+---
+title: "MindNote - Ml - Clustering - Kmeans"
+collection: mindnote
+permalink: /mindnote/ml-clustering/kmeans
+---
+
 
 # MindNotes - ML - Clustering
 #### Author: Christian Frey 
