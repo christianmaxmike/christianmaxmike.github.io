@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
+  - title: "Research"
     url: /projects/
 
   - title: "Teaching"
@@ -11,3 +11,6 @@ main:
 
   - title: "About"
     url: /about/
+    
+  - title: "MindNotes"
+    url: /mindNote/
