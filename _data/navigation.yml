@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Publications"
     url: /publications/
@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "About"
-    url: /about/
-    
   - title: "MindNotes"
     url: /mindNote/
+    
+  - title: "About"
+    url: /about/
