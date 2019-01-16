@@ -165,6 +165,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  mindnotes:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -210,6 +213,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _mindnotes
+  - scope:
+      path: ""
+      type: mindnotes
     values:
       layout: single
       author_profile: true
