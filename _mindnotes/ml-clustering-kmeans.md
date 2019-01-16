@@ -12,14 +12,13 @@ permalink: /mindnotes/ml-clustering-kmeans
 ## K-Means - Clustering
 
 Idea of the kmeans is that given an input data, we want to find a clustering such that the within-cluster variation of each cluster is small and we use the centrois of a cluster as the representative of them.
-Hence, the objective for a given $k$ is to form $k$ groups such that the sum of the (squared) distances between the mean of the groups and their elements is minimal.
+Hence, the objective for a given $k$ is to form \(k\) groups such that the sum of the (squared) distances between the mean of the groups and their elements is minimal.
 
-The objective function, we tr to optimize is defined as:
-{% raw %}
+The objective function, we try to optimize is defined as:
 $$
 J = \sum_{i=0}^{k} \sum_{m \in C_i} (m - centroid_i)^2
 $$
-{% endraw %}
+
 #### Load dependencies
 
 
