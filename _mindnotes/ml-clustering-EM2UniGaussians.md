@@ -176,7 +176,7 @@ $$
 r_{ik} = \frac{\pi_k p(x_i | \theta_k^{(t-1)})}{\sum_{k'} \pi_{n'} p (x_i | \theta_{k'}^{(t-1)})}
 $$
 
-where $r_{ik} \triangleq p(z_i = k |x_i, \theta^{(t-1)})$ is the $\textbf{responsibility}$ that cluster $k$ takes for data point $i$.
+where $r_{ik} \triangleq p(z_i = k \|x_i, \theta^{(t-1)})$ is the $\textbf{responsibility}$ that cluster $k$ takes for data point $i$.
 
 #### The M step:
 In the M step, we optimize the log likelihood wrt $\pi$ and the $\theta_k$.
@@ -184,7 +184,9 @@ For $\pi$, we have:
 $$
 \pi_k = \frac{1}{N} \sum_{i} r_{ik} = \frac{N_k}{N}
 $$
+
 where $N_k \triangleq \sum_{i} r_{ik}$ is the weighted number of points assigned to cluster $k$.
+
 $$
 \mu_k^{new} = \frac{1}{N_k}\sum_{n=1}^{N} r_{ik}x_n
 $$
