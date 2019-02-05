@@ -15,7 +15,7 @@ redirect_from:
 <!-- 
 ## Images
 ![alt text](/images/500x300.png "Logo Title Text 1")-->
--->
+
 
 I am a research assistant at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich at the <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group and Data Mining</a>.
 I'm supervised by <a href="http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html">Prof. Dr. Matthias Schubert </a>.
