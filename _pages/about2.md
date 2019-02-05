@@ -8,8 +8,8 @@ author_profile: true
 
 <ul>
 <li>Name: Christian Frey</li>
-<li>job: PhD Candidate</li>
-<li>Department: Dept. of Databases and Data Mining</li>
+<li>job: Research assistant</li>
+<li>Department: Dept. of Databases and Data Mining, University of Munich</li>
  </ul>
 
 
