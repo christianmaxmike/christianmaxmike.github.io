@@ -20,7 +20,7 @@ permalink: /mindnotes/ml-clustering-spectral
 
 ### General graph notation
 
-Let $G=(V,E)$ be an undirected graph with vertex set V$ = \{v_1, \ldots, v_n\}$. Furthermore, each edge $e_{ij}$ has a non-negative weight $w_{ij} \geq 0$. The weighted adjacency matrix of a graph is the matrix $W = (w_{ij})_{i,k=1}^n$. If two vertices are not connected, the weight equals 0. In the following we will focus on undirected graphs, i.e., $w_{ij} = w_{ji}$. The <b>degree of a vertex</b> $v_i \in V$ is defined as the sum of its incident edges: 
+Let $G=(V,E)$ be an undirected graph with vertex set V$ = \{v_1, \ldots, v_n\}$. Furthermore, each edge $e_{ij}$ has a non-negative weight $w_{ij} \geq 0$. The weighted adjacency matrix of a graph is the matrix $W = (w_{ij})\_{i,k=1}^n$. If two vertices are not connected, the weight equals 0. In the following we will focus on undirected graphs, i.e., $w_{ij} = w_{ji}$. The <b>degree of a vertex</b> $v_i \in V$ is defined as the sum of its incident edges: 
 $$
 d_i = \sum_{j=1}^{n} w_{ij}
 $$
