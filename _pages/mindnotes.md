@@ -10,8 +10,8 @@ author_profile: true
 <h3>Machine Learning - Unsupervised Learning - Clustering</h3>
 <hr>
 {% for post in site.mindnotes reversed %}
-    <p>{{ post.collection }}</p>
-    {% if post.collection == "ml-ul-clustering" %}
+    <p>{{ post.topic }}</p>
+    {% if post.topic == "ml-ul-clustering" %}
       {% include archive-single.html %}
     {% endif %}
 {% endfor %}
