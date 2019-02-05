@@ -50,7 +50,7 @@ plt.scatter(X[:, 0], X[:, 1], s=50);
 ```
 
 
-![png](_pics/ml-ul-kmeans/output_4_0.png)
+![png](./_pics/ml-ul-kmeans/output_4_0.png)
 
 
 #### Implementation of KMeans
