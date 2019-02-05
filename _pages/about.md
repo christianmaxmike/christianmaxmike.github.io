@@ -10,13 +10,13 @@ redirect_from:
 
 <!--This is the front page of your Github pages website! This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. 
 
-You can use all kinds of markdown here. See [the guide](/markdown/).
+<!-- You can use all kinds of markdown here. See [the guide](/markdown/). -->
 
 ## Images
 ![alt text](/images/500x300.png "Logo Title Text 1")-->
 
-I am a PhD Candidate at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich at the <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group and Data Mining</a>.
-I'm supervised by <a href="http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html">Prof. Dr. Matthias Schubert </a> - head of <a href="http://www.ai-beyond.org/#research">AI-beyond</a> 
+I am a research assistant at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich at the <a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group and Data Mining</a>.
+I'm supervised by <a href="http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html">Prof. Dr. Matthias Schubert </a>.
 
 (former supervisor: <a href="https://www.ai.informatik.uni-kiel.de/ai/team/prof-dr-matthias-renz">Prof. Dr. Matthias Renz</a> - now: Christian-Albrechts-Universität zu Kiel). 
 
@@ -45,6 +45,7 @@ My primary interests in research are:
 <li>Heterogeneous Information Networks / Knowledge Graphs</li>
 <!--<li>Uncertain Data Stream Processing</li>-->
 <li>Machine Learning and Deep Learning approaches applied on Knowledge Graphs</li>
+<li>Semantic Web and Linked Data</li>
 </ul>
 <br/>
 
