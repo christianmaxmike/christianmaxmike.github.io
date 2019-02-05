@@ -5,6 +5,7 @@ collection: ml-ul-clustering
 permalink: /mindnotes/ml-clustering-kmeans
 ---
 
+
 <img src="logo_cmmf.png"
      alt="Markdown Monster icon"
      style="float: right" />
@@ -49,7 +50,7 @@ plt.scatter(X[:, 0], X[:, 1], s=50);
 ```
 
 
-![png](output_4_0.png)
+![png](_pics/ml-ul-kmeans/output_4_0.png)
 
 
 #### Implementation of KMeans
@@ -233,28 +234,36 @@ kmeans = KMeans(n_clusters=4)
 kmeans.fit_silhouette(X)
 ```
 
-
-![png](output_8_0.png)
-
-
-
-![png](output_8_1.png)
-
-
-
-![png](output_8_2.png)
+    For n_clusters = 4 The average silhouette_score is : 0.38145632079855524
+    For n_clusters = 4 The average silhouette_score is : 0.4196365342575672
+    For n_clusters = 4 The average silhouette_score is : 0.5224106511612718
+    For n_clusters = 4 The average silhouette_score is : 0.6705159431863005
+    For n_clusters = 4 The average silhouette_score is : 0.6819938690643478
+    For n_clusters = 4 The average silhouette_score is : 0.6819938690643478
 
 
 
-![png](output_8_3.png)
+![png](_pics/ml-ul-kmeans/output_8_1.png)
 
 
 
-![png](output_8_4.png)
+![png](_pics/ml-ul-kmeans/output_8_2.png)
 
 
 
-![png](output_8_5.png)
+![png](_pics/ml-ul-kmeans/output_8_3.png)
+
+
+
+![png](_pics/ml-ul-kmeans/output_8_4.png)
+
+
+
+![png](_pics/ml-ul-kmeans/output_8_5.png)
+
+
+
+![png](_pics/ml-ul-kmeans/output_8_6.png)
 
 
 #### Drawbacks of KMeans
@@ -296,7 +305,7 @@ ax2.set_ylabel('Feature space for the 2nd feature')
 
 
 
-![png](output_11_1.png)
+![png](_pics/ml-ul-kmeans/output_11_1.png)
 
 
 #### The number of clusters must be predefined
@@ -334,7 +343,7 @@ ax2.set_ylabel('Feature space for the 2nd feature')
 
 
 
-![png](output_13_1.png)
+![png](_pics/ml-ul-kmeans/output_13_1.png)
 
 
 #### Furher drawbacks 
