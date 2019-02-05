@@ -1,5 +1,6 @@
 ---
 title: "KMeans"
+topic: ml-ul-clustering
 collection: ml-ul-clustering
 permalink: /mindnotes/ml-clustering-kmeans
 ---
