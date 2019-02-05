@@ -1,8 +1,8 @@
 ---
-title: "Spectral Clustering"
+title: "DBSCAN"
 topic: ml-ul-clustering
 collection: ml-ul-clustering
-permalink: /mindnotes/ml-clustering-spectral
+permalink: /mindnotes/ml-clustering-dbscan
 ---
 
 
