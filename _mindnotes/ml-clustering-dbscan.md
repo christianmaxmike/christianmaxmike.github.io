@@ -28,20 +28,22 @@ A naive approach could require for each point in a cluster that there are at lea
     <dt><b>Definition 1</b>: (Eps-neighborhood of a point).</dt> 
     <dd>The Eps-neighborhood of a point p, denoted by $N_{Eps}(p)$ is defined by 
         $$ 
-        N_{Eps} \;(p) = \{q \in D \| dist(p,q) \leq Eps\} 
+        N_{Eps} \;(p) = \{q \in D | dist(p,q) \leq Eps\} 
         $$
      </dd>
-  </dl>
+  <!-- </dl>-->
 
 As this value would be hard to set for each point in a cluster and this low value would not be characteristic for a cluster - esp. in the presence of noise - it is required that for every point $p$ in a cluster $C$ there is a point $q \in C$ so that $p$ is inside of the $Eps$-neighboorhood of $q$ and $N_{Eps}(q)$ contains at least $MinPts$ points. This give rise to the following defintion:
 
 > <dl>
     <dt><b>Definition 2</b>: (directly density-reachable). </dt>
     <dd>A point $p$ is directly density-reachable from a point $q$ w.r.t $eps$, minPts if two conditions hold:
-        * $p \in N_{Eps}(q)$
-        * $\| N_{Eps}(q)\| \geq MinPts$ (core point condition)
+        <ul> 
+             <li>$p \in N_{Eps}(q)$</li>
+             <li>$\| N_{Eps}(q)\| \geq MinPts$ (core point condition)</li>
+        </ul>
     </dd>
-  </dl>
+  <!-- </dl> -->
 
 Directly density-reachable is symmetric for pairs of core points. In general, however, it is not symmetric if one core point and one border point are involved. 
 
@@ -49,7 +51,7 @@ Directly density-reachable is symmetric for pairs of core points. In general, ho
     <dt><b>Definition 3</b>: (density-reachable).</dt>
     <dd>A point $p$ is density-reachable from a point $q$ w.r.t $Eps$ and $MinPts$ if there is a chain of point $p_1, \ldots, p_n$, $p_1 = q$, $p_n = p$ such that $p_{i+1}$ is directly density-reachable from $p_i$.
     </dd>
-  </dl>
+ <!-- </dl> -->
 
 Density-reachability is a canonical extension of direct density-reachability. This relation is transitive, but it is not symmetric. 
 
@@ -59,7 +61,7 @@ Two border points of the same cluster $C$ are possibly not density reachable fro
     <dt><b>Defintion 4</b>: (density-connected).</dt>
     <dd>A point $p$ is density-connected to a point $q$ w.r.t $Eps$ and $MinPts$ if there is a point $o$ such that both, $p$ and $q$ are density-reachable from $o$ w.r.t $Eps$ and $MinPts$.
     </dd>
-  </dl>
+  <!-- </dl> -->
 
 Hence, the density-connectivity is a symmetric relation. 
 
