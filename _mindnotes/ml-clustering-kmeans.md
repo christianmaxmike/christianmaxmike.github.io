@@ -50,7 +50,7 @@ plt.scatter(X[:, 0], X[:, 1], s=50);
 ```
 
 
-![png](img/ml-ul-kmeans/output_4_0.png)
+![png](img/ml-ul-clustering-kmeans/output_4_0.png)
 
 
 #### Implementation of KMeans
@@ -243,27 +243,27 @@ kmeans.fit_silhouette(X)
 
 
 
-![png](img/ml-ul-kmeans/output_8_1.png)
+![png](img/ml-ul-clustering-kmeans/output_8_1.png)
 
 
 
-![png](img/ml-ul-kmeans/output_8_2.png)
+![png](img/ml-ul-clustering-kmeans/output_8_2.png)
 
 
 
-![png](img/ml-ul-kmeans/output_8_3.png)
+![png](img/ml-ul-clustering-kmeans/output_8_3.png)
 
 
 
-![png](img/ml-ul-kmeans/output_8_4.png)
+![png](img/ml-ul-clustering-kmeans/output_8_4.png)
 
 
 
-![png](img/ml-ul-kmeans/output_8_5.png)
+![png](img/ml-ul-clustering-kmeans/output_8_5.png)
 
 
 
-![png](img/ml-ul-kmeans/output_8_6.png)
+![png](img/ml-ul-clustering-kmeans/output_8_6.png)
 
 
 #### Drawbacks of KMeans
@@ -305,7 +305,7 @@ ax2.set_ylabel('Feature space for the 2nd feature')
 
 
 
-![png](img/ml-ul-kmeans/output_11_1.png)
+![png](img/ml-ul-clustering-kmeans/output_11_1.png)
 
 
 #### The number of clusters must be predefined
@@ -343,7 +343,7 @@ ax2.set_ylabel('Feature space for the 2nd feature')
 
 
 
-![png](img/ml-ul-kmeans/output_13_1.png)
+![png](img/ml-ul-clustering-kmeans/output_13_1.png)
 
 
 #### Furher drawbacks 
