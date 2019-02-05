@@ -27,7 +27,7 @@ $$
 
 We can express the <b>degree matrix D</b> as a diagonal matrix with the degrees $d_1, \ldots, d_n$ for all vertices $v_1, \ldots, v_n$ on the diagonal. 
 The size of a subset $A \subset V$ can be measured in two ways:
-* $|A| :=$ cardinality of the subset indicating the number of nodes in A
+* $\|A\| :=$ cardinality of the subset indicating the number of nodes in A
 * $vol(A) := \sum_{i \in A} d_i$ ; size of A is measured by the weights of edges in A
 
 By defining an indicator vector $\mathbb{1}_A = (f_1, \ldots, f_n)' \in \mathbb{R}^n$ we can define the affiliation of vertices to the subset A, i.e., $f_i=1$ if $v_i \in A$ and $f_i=0$ otherwise.
