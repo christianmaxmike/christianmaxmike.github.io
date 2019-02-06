@@ -217,5 +217,8 @@ plot2D(X,Y,p)
 
 ![png](img/dl-basics-perceptron/output_10_1.png)
 
+#### References and further reading:
+* Shai Shalev-Shwartz, Shai Ben-David. Understanding Machine Learning: From Theory to Algorithms. Cambridge University Press
+
 
 # End of this MindNote
