@@ -20,6 +20,15 @@ This series will grow with time and should not be considered as final. I try to 
 {% endfor %}
 
 <hr>
+<h2>Deep Learning - Basics</h2>
+<hr>
+{% for post in site.mindnotes %}
+    {% if post.topic == "dl-basics" %}
+      {% include archive-single.html %}
+    {% endif %}
+{% endfor %}
+
+<hr>
 <h2>Data Mining - Sequence Mining</h2>
 <hr>
 {% for post in site.mindnotes %}
@@ -27,3 +36,4 @@ This series will grow with time and should not be considered as final. I try to 
       {% include archive-single.html %}
     {% endif %}
 {% endfor %}
+
