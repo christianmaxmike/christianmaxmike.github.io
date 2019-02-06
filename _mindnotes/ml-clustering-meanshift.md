@@ -78,7 +78,7 @@ plt.scatter(X[:, 0], X[:, 1], s=50);
 ```
 
 
-![png](output_6_0.png)
+![png](img/ml-ul-clustering-meanshift/output_6_0.png)
 
 
 #### Implementation of MeanShift with gaussian kernel
