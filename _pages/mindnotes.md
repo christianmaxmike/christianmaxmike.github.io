@@ -19,6 +19,7 @@ This series will grow with time and should not be considered as final. I try to 
 {% endfor %}
 
 <h3>Data Mining - Sequence Mining</h3>
+<hr>
 {% for post in site.mindnotes %}
     {% if post.topic == "dm-sequenceMining" %}
       {% include archive-single.html %}
