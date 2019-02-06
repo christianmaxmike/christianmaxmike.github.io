@@ -9,7 +9,7 @@ permalink: /mindnotes/dm-sequenceMining-gsp
 <img src="logo_cmmf.png"
      alt="Markdown Monster icon"
      style="float: right" />
-# MindNotes - Data Mining - Association Rule Learning
+# MindNotes - Data Mining - Sequence Mining
 
 **Author: Christian M.M. Frey**  
 **E-Mail: <frey@dbs.ifi.lmu.de>**
@@ -23,7 +23,7 @@ permalink: /mindnotes/dm-sequenceMining-gsp
 
 In this tutorial, we will implement the generalized sequential pattern (GSP) algorithm. The motivation is that in many application the order matters, e.g. because the ordering encodes spatial or temporal aspects (bioinformatics (DNA/protein sequences), Web mining, text mining, sensor data mining).
 
-In sequential pattern mining the task is to find all frequent subsequences occuring in our transactions dataset. Note that the number of possible patterns is even larger than for frequent itemset mining (for an alphabet $\Sigma$ and sequences of length $k$, there are $|\Sigma|^k$ different $k-sequences$).
+In sequential pattern mining the task is to find all frequent subsequences occuring in our transactions dataset. Note that the number of possible patterns is even larger than for frequent itemset mining (for an alphabet $\Sigma$ and sequences of length $k$, there are $\|\Sigma\|^k$ different $k-sequences$).
 
 
 #### Load dependencies
