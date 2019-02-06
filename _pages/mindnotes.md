@@ -11,7 +11,7 @@ The intention behind the series <i>MindNotes</i> is to give students a deep insi
 This series will grow with time and should not be considered as final. I try to keep the topics as clean as possible and MathJax is used to render the formulas. Sometimes there are some render issues for which i'm highly sorry (and for potential typos). Nonetheless, i hope you can profit from this series. So, let's get started! 
 
 <hr>
-<h3>Machine Learning - Unsupervised Learning - Clustering</h3>
+<h2>Machine Learning - Unsupervised Learning - Clustering</h2>
 <hr>
 {% for post in site.mindnotes %}
     {% if post.topic == "ml-ul-clustering" %}
@@ -20,7 +20,7 @@ This series will grow with time and should not be considered as final. I try to 
 {% endfor %}
 
 <hr>
-<h3>Data Mining - Sequence Mining</h3>
+<h2>Data Mining - Sequence Mining</h2>
 <hr>
 {% for post in site.mindnotes %}
     {% if post.topic == "dm-sequenceMining" %}
