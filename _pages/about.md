@@ -66,10 +66,3 @@ Supervised Theses:
 <li>MT - Hasse J., Application of Energy Consumption Forecasts using Deep Learning</li>
 <li>MT - Borutta F., Analysis Framework for spatio-temporal soccer data</li>
 </ul>
-
-## Affiliations
-<ul>
-<li><a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems and Data Mining Group, Ludwig-Maximilians-Universit&auml;t M&uuml;nchen</a></li>
-<!--<li><a href="http://dsl.ifi.lmu.de/data-science-lab">Data Science Lab, Ludwig-Maximilians-Universit&auml;t M&uuml;nchen</a></li>-->
-<li><a href="http://datalab.gmu.edu">DataLab, George Mason University</a></li>
-</ul>
