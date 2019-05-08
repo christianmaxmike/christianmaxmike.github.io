@@ -37,3 +37,8 @@ This series will grow with time and should not be considered as being in a final
     {% endif %}
 {% endfor %}
 
+<hr>
+<h2>Additional Materials</h2>
+<a href="https://christianmaxmike.github.io/mindnotes/MLBasics_derivatives.pdf">Machine Learning Basics: Derivatives</a>
+<!--<object data="{{ post.file_document_path }}" width="1000" height="1000" type='application/pdf'/>-->
+
