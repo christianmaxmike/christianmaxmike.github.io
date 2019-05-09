@@ -20,7 +20,7 @@ redirect_from:
 I am a research assistant at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich at the Institute of Informatics. 
 <!--<a href="http://www.dbs.ifi.lmu.de/cms/Hauptseite">Department of Computer Science, Database Systems Group and Data Mining</a>-->
 
-I'm supervised by <a href="http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html">Prof. Dr. Matthias Schubert </a>.
+I'm supervised by <a href="http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html">Prof. Dr. Matthias Schubert</a>.
 
 (former supervisor: <a href="https://www.ai.informatik.uni-kiel.de/ai/team/prof-dr-matthias-renz">Prof. Dr. Matthias Renz</a> - now: Christian-Albrechts-Universität zu Kiel). 
 
