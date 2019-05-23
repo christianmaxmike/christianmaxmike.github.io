@@ -476,7 +476,7 @@ df_housing.hist(bins=50, figsize=(20,15))
 
 
 
-![png](img/dl-intor-tensorflow/output_40_1.png)
+![png](img/dl-intro-tensorflow/output_40_1.png)
 
 
 #### Plot values as scatter plot - a deeper insight
@@ -501,7 +501,7 @@ df_housing.plot.scatter(x="Longitude", y="Latitude", alpha=0.4,
 
 
 
-![png](img/dl-intor-tensorflow/output_42_1.png)
+![png](img/dl-intro-tensorflow/output_42_1.png)
 
 
 ### Linear Regression using Normal Equation
