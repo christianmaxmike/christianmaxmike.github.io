@@ -230,3 +230,9 @@
     }
   }
 }
+
+@media only screen and (max-width: 600px) {
+    .twitter-timeline-sidebar { 
+        display: None;  
+    }
+}
