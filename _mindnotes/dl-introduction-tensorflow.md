@@ -1,3 +1,9 @@
+---
+title: "Introduction - TensorFlow"
+topic: dl-basics
+collection: dl-basics
+permalink: /mindnotes/dl-introduction-tensorflow
+---
 
 <img src="logo_cmmf.png"
      alt="Markdown Monster icon"
