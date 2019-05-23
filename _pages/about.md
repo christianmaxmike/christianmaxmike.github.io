@@ -62,7 +62,8 @@ Peer reviewed for conferences in ...
 
 Supervised Theses:
 <ul>
-<li>MT - Obadic, I., Relation Disambiguation in Knowledge Graphs</li>
+<li>(wip) MT - Obadic, I., Relation Disambiguation in Knowledge Graphs</li>
 <li>MT - Hasse J., Application of Energy Consumption Forecasts using Deep Learning</li>
 <li>MT - Borutta F., Analysis Framework for spatio-temporal soccer data</li>
 </ul>
+[wip: work in progress]
