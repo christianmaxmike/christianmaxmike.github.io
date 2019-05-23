@@ -32,7 +32,6 @@ I'm supervised by <a href="http://www.dbs.ifi.lmu.de/cms/personen/professoren/sc
 <li>09/10/2015 - 09/25/2015: Research stay at the <a href="http://www.berkeley.edu">University of California, Berkeley</a> at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science (BIDS)</a> </li>
 </ul>
 
-
 ## Research 
 My primary interests in research are: 
 <ul>
@@ -42,7 +41,6 @@ My primary interests in research are:
 <!--<li>Graph Databases/Mining/Exploration</li>-->
 <!--<li>Graph Exploration</li>-->
 <!--<li>Graph Databases</li>-->
-<!--<li>Stream Processing</li>-->
 <!--<li>Modeling and Querying Uncertain Spatio-Temporal Data</li>-->
 <!--<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>-->
 <!--<li>Uncertain Sensor Networks</li>-->
@@ -52,7 +50,6 @@ My primary interests in research are:
 <li>Semantic Web and Linked Data</li>
 </ul>
 <br/>
-
 
 Peer reviewed for conferences in ...
 <ul>
@@ -65,6 +62,7 @@ Peer reviewed for conferences in ...
 
 Supervised Theses:
 <ul>
+<li>MT - Obadic, I., Relation Disambiguation in Knowledge Graphs</li>
 <li>MT - Hasse J., Application of Energy Consumption Forecasts using Deep Learning</li>
 <li>MT - Borutta F., Analysis Framework for spatio-temporal soccer data</li>
 </ul>
