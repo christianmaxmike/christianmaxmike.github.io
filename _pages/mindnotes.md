@@ -10,6 +10,7 @@ author_profile: true
 The intention behind the series <i>MindNotes</i> is to give students a deep insight in not only the theory i present in my tutorials, but also to give a practical approach to it. Therefore, i try to give an easy access to the topics of diverse lectures for which i assist as a research assistant. The lectures cover topics on 'Big Data Management and Analytics', 'Knowledge Discovery and Data Mining' and 'Machine Learning'. 
 This series will grow with time and should not be considered as being in a final state. I try to keep the topics as clean as possible and MathJax (javascript should be activated in your browser) is used to render the formulas. Sometimes there are some render issues for which i'm highly sorry (and for potential typos). Nonetheless, i hope you can profit from this series. So, let's get started!  
 
+<h1>Practical Training</h1>
 <hr>
 <h2>Machine Learning - Unsupervised Learning - Clustering</h2>
 <hr>
@@ -38,6 +39,7 @@ This series will grow with time and should not be considered as being in a final
 {% endfor %}
 
 <hr>
+<h1>Theoretical Training</h1>
 <h2>AI Essentials</h2>
 <a href="https://christianmaxmike.github.io/mindnotes/MLBasics_derivatives.pdf">Math Basics: Derivatives</a>
 <!--<object data="{{ post.file_document_path }}" width="1000" height="1000" type='application/pdf'/>-->
