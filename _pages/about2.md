@@ -7,14 +7,12 @@ author_profile: true
 {% include base_path %}
 
 <ul>
-<li>Name: Christian Frey</li>
-<li>job: Research assistant</li>
-<li>Department: Dept. of Databases and Data Mining, University of Munich</li>
+<li>This is my private blog where I post things being in my interest and explain stuff for which I think it is worth knowing about when you work in the field of artificial intelligence/machine learning/deep learning. This blog solely expresses my private opinions, interests being influenced by my work as a research assistant but none of the content on this site shall be regarded as being representative of my work at the university of Munich.</li>
  </ul>
 
 
-## Interests
-Music, playing drums+piano:<br/>
+## Private Interests
+Music, playing drums + piano:<br/>
 <a href="https://youtu.be/c9VydyJSo5w">Josh Groban - You Raise Me Up</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c9VydyJSo5w
 " target="_blank"><img src="http://img.youtube.com/vi/c9VydyJSo5w/0.jpg" 
