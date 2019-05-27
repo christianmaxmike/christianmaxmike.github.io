@@ -51,7 +51,9 @@ This website is hosted by <a href="https://www.github.com/">Github</a> using <a 
 Innerhalb dieses Internetauftritts wird das Plug-in des Social-Networks Twitter eingesetzt. Bei Twitter handelt es sich um einen Internetservice der Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA, nachfolgend nur „Twitter“ genannt.
 
 Durch die Zertifizierung nach dem EU-US-Datenschutzschild („EU-US Privacy Shield“)
+
 https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active
+
 garantiert Twitter, dass die Datenschutzvorgaben der EU auch bei der Verarbeitung von Daten in den USA eingehalten werden.
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der Qualitätsverbesserung unseres Internetauftritts.
@@ -60,15 +62,15 @@ Sofern das Plug-in auf einer der von Ihnen besuchten Seiten dieses Internetauftr
 
 Sollten Sie bei Twitter eingeloggt sein, während Sie eine mit dem Plug-in versehenen Internetseite besuchen, werden die durch das Plug-in gesammelten Informationen Ihres konkreten Besuchs von Twitter erkannt. Die so gesammelten Informationen weist Twitter womöglich Ihrem dortigen persönlichen Nutzerkonto zu. Wenn Sie das verhindern möchten, müssen Sie sich entweder vor dem Besuch dieses Internetauftritts bei Twitter ausloggen oder die entsprechenden Einstellungen in Ihrem Twitter-Benutzerkonto vornehmen.
 
-Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie Ihre diesbezüglichen Rechte und Schutzmöglichkeiten hält Twitter in den unter
-<a href"=https://twitter.com/privacy">https://twitter.com/privacy</a>
-abrufbaren Datenschutzhinweisen bereit.
+Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie Ihre diesbezüglichen Rechte und Schutzmöglichkeiten hält Twitter in den unter <a href="https://twitter.com/privacy">https://twitter.com/privacy</a> abrufbaren Datenschutzhinweisen bereit.
 
 #### Twitter Timeline - en
 This website uses the plug-in of the Twitter social network. The Twitter service is operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA ("Twitter").
 
 Through certification according to the EU-US Privacy Shield
+
 https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active
+
 Twitter guarantees that it will follow the EU's data protection regulations when processing data in the United States.
 
 The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in improving the quality of our website.
@@ -77,5 +79,4 @@ If the plug-in is stored on one of the pages you visit on this website, your bro
 
 If you are logged in to Twitter while visiting one of this plugged-in websites, the information collected by the plug-in from your specific visit will be recognized by Twitter. The information collected may then be assigned to your personal account at Twitter. If, for example, you use the Twitter Tweet button, this information will be stored in your Twitter account and may be published on the Twitter platform. To prevent this, you must either log out of Twitter before visiting my site or make the appropriate settings in your Twitter account.
 
-Further information about the collection and use of data as well as your rights and protection options in Twitter's privacy policy found at
-<a href"=https://twitter.com/privacy">https://twitter.com/privacy</a>
+Further information about the collection and use of data as well as your rights and protection options in Twitter's privacy policy found at <a href="https://twitter.com/privacy">https://twitter.com/privacy</a>
