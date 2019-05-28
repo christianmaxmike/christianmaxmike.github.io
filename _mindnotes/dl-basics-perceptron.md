@@ -12,7 +12,7 @@ permalink: /mindnotes/dl-basics-perceptron
 # MindNotes - Deep Learning - Basics
 
 **Author: Christian M.M. Frey**  
-**E-Mail: <frey@dbs.ifi.lmu.de>**
+**E-Mail: <christianmaxmike@gmail.com>**
 
 ---
 
