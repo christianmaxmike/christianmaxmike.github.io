@@ -11,7 +11,7 @@ permalink: /mindnotes/ml-clustering-spectral
 # MindNote - Machine Learning - Unsupervised Learning - Clustering
 
 **Author: Christian M.M. Frey**  
-**E-Mail: <frey@dbs.ifi.lmu.de>**
+**E-Mail: <christianmaxmike@gmail.com>**
 
 ---
 
