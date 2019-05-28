@@ -12,7 +12,7 @@ permalink: /mindnotes/ml-clustering-em2unigauss
 # MindNote - Machine Learning - Unsupervised Learning - Clustering
 
 **Author: Christian M.M. Frey**  
-**E-Mail: <frey@dbs.ifi.lmu.de>**
+**E-Mail: <christianmaxmike@gmail.com>**
 
 ---
 
