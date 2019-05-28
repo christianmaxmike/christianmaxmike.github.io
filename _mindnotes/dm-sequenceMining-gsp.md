@@ -12,7 +12,7 @@ permalink: /mindnotes/dm-sequenceMining-gsp
 # MindNotes - Data Mining - Sequence Mining
 
 **Author: Christian M.M. Frey**  
-**E-Mail: <frey@dbs.ifi.lmu.de>**
+**E-Mail: <christianmaxmike@gmail.com>**
 
 ---
 
