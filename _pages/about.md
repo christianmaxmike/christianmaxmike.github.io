@@ -19,6 +19,10 @@ redirect_from:
 
 I am a research assistant at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich at the Institute of Informatics. 
 
+I'm supervised by <a href="http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html">Prof. Dr. Matthias Schubert</a>.
+	
+(former supervisor: <a href="https://www.ai.informatik.uni-kiel.de/ai/team/prof-dr-matthias-renz">Prof. Dr. Matthias Renz</a> - now: Christian-Albrechts-Universität zu Kiel). 
+
 ## International research stays and cooperations
 <ul>
 <li>04/24/2017 - 05/13/2017: Research stay at the <a href="https://www2.gmu.edu">George Mason University, Fairfax</a> at the <a href="https://cos.gmu.edu/cds/">Department of Computational and Data Sciences (CDS)</a> </li>
