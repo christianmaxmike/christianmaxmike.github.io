@@ -52,7 +52,7 @@ Innerhalb dieses Internetauftritts wird das Plug-in des Social-Networks Twitter 
 
 Durch die Zertifizierung nach dem EU-US-Datenschutzschild („EU-US Privacy Shield“)
 
-https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active
+<a href="https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active</a>
 
 garantiert Twitter, dass die Datenschutzvorgaben der EU auch bei der Verarbeitung von Daten in den USA eingehalten werden.
 
@@ -69,7 +69,7 @@ This website uses the plug-in of the Twitter social network. The Twitter service
 
 Through certification according to the EU-US Privacy Shield
 
-https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active
+<a href="https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active</a>
 
 Twitter guarantees that it will follow the EU's data protection regulations when processing data in the United States.
 
