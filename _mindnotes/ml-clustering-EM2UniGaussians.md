@@ -170,7 +170,7 @@ plt.legend()
 ### EM for GMMs
 We will no discuss how to fit a mixture of Gaussians using EM. We assume the number of mixture components, $K$, is known.
 
-#### The Estimation step:
+#### The Expectation step:
 The E Step has the following simple form, which is the same for any mixture model:
 $$
 r_{ik} = \frac{\pi_k p(x_i | \theta_k^{(t-1)})}{\sum_{k'} \pi_{n'} p (x_i | \theta_{k'}^{(t-1)})}
@@ -259,16 +259,16 @@ class GaussianMixture(object):
         g2_d = sum(right)
         
         # mu new
-        self.g1.mu = sum(w * d for (w, d) in zip(left, data)) / g1_d
-        self.g2.mu = sum(w * d for (w, d) in zip(right, data)) / g2_d
+        self.g1.mu = sum(w * d for (w, d) in zip(left, self.data)) / g1_d
+        self.g2.mu = sum(w * d for (w, d) in zip(right, self.data)) / g2_d
                           
         # compute new sigmas 
-        self.g1.sigma = sqrt(sum(w * ((d - self.g1.mu) **2) for (w,d) in zip(left, data)) / g1_d)
-        self.g2.sigma = sqrt(sum(w * ((d - self.g2.mu) **2) for (w,d) in zip(right, data)) / g2_d)
+        self.g1.sigma = sqrt(sum(w * ((d - self.g1.mu) **2) for (w,d) in zip(left, self.data)) / g1_d)
+        self.g2.sigma = sqrt(sum(w * ((d - self.g2.mu) **2) for (w,d) in zip(right, self.data)) / g2_d)
         
         # compute new weights
-        self.pi_1 = g1_d / len(data)
-        self.pi_2 = g2_d / len(data)
+        self.pi_1 = g1_d / len(self.data)
+        self.pi_2 = g2_d / len(self.data)
         
     def _calculate_loglike(self):
         """
