@@ -50,8 +50,9 @@ This series will grow with time and should not be considered as being in a final
 <li><a href="https://christianmaxmike.github.io/mindnotes/ai_dl_activationFunctions.pdf">Activation Functions</a></li>
 <li><a href="https://christianmaxmike.github.io/mindnotes/ai_dl_backpropagation.pdf">Backpropagation</a></li>
 </ul>
-<h4>Machine Learning Basics</h4>
---- coming soon ---
+<!--<h4>Machine Learning Basics</h4>
+--- coming soon --- 
+-->
 
 <!--<object data="{{ post.file_document_path }}" width="1000" height="1000" type='application/pdf'/>-->
 
