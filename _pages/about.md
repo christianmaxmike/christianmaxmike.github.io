@@ -46,7 +46,6 @@ My primary interests in research are:
 <li>09/10/2015 - 09/25/2015: Research stay at the <a href="http://www.berkeley.edu">University of California, Berkeley</a> at the <a href="https://bids.berkeley.edu">Berkeley Institute for Data Science (BIDS)</a> </li>
 </ul>
 
-
 ## Misc.
 Peer reviewed for conferences in ...
 <ul>
