@@ -54,7 +54,7 @@ Peer reviewed for conferences in ...
 	<li>2017: <a href="http://icde2017.sdsc.edu">ICDE'17</a>, <a href="http://ada.suda.edu.cn/dasfaa2017/">DASFAA'17</a>, <a href="http://www.kdd.org/kdd2017/">KDD'17</a>, <a href="http://www.vldb.org/2017/">VLDB'17</a></li>
 	<li>2018: <a href="https://icde2018.org">ICDE'18</a>, <a href="http://www.ict.griffith.edu.au/conferences/dasfaa2018/">DASFAA'18</a>, <a href="http://www.cikm2018.units.it/">CIKM'18</a></li>
 	<li>2019: <a href="http://vldb.org/2019/">VLDB'19</a></li>
-	<li>2020: <a href="https://www.siam.org/conferences/cm/conference/sdm20">SDM'20</a></li>
+	<li>2020: <a href="https://www.siam.org/conferences/cm/conference/sdm20">SDM'20</a>, <a href="https://csit2020.org/dami/index.html">DAMI'20</a></li>
 </ul>
 
 Supervised Theses:
