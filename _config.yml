@@ -86,7 +86,7 @@ author:
   bio              : "Research assistant in Computer Science at the Ludwig-Maximilians-Universit&auml;t"
   location         : "<a href='https://www.google.com/maps/search/oettingenstraße+67/@38.4483124,-122.6715335,8z/data=!3m1!4b1'>Munich</a>"
   employer         : 
-  googlescholar    : https://scholar.google.com/citations?user=hCNFekkAAAAJ
+  googlescholar    : # https://scholar.google.com/citations?user=hCNFekkAAAAJ
   email            : christianmaxmike@gmail.com
   uri              : 
   bitbucket        :
@@ -110,11 +110,11 @@ author:
   twitter          : chrisMaxMike
   vine             :
   weibo            :
-  xing             : Christian_Frey84
+  xing             : # Christian_Frey84
   youtube          :
   wikipedia        :
-  dblp             : http://dblp.uni-trier.de/pers/hd/f/Frey:Christian
-  researchgate     : https://www.researchgate.net/profile/Christian_Frey7
+  dblp             : # http://dblp.uni-trier.de/pers/hd/f/Frey:Christian
+  researchgate     : # https://www.researchgate.net/profile/Christian_Frey7
 
 include: 
   - .htaccess
