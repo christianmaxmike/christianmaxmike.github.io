@@ -59,6 +59,7 @@ Peer reviewed for conferences in ...
 
 Supervised Theses:
 <ul>
+<li>[wip] MT - "Attention-driven Learning of Temporal Abstractions in deep Reinforcement Learning"</li>
 <li>MT - "Relation Disambiguation in Knowledge Graphs"</li>
 <li>MT - "Application of Energy Consumption Forecasts using Deep Learning"</li>
 <li>MT - "Analysis Framework for spatio-temporal soccer data"</li>
