@@ -55,6 +55,10 @@
       {% if post.collection == "teaching" %}
         <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
       {% endif %}
+      {% if post.collection == "courses" %}
+        <p class="archive__item-excerpt" itemprop="description">{{ markdownify }}</p>
+      {% endif %}
+    
     {% endif %}
  
     {% if post.citation and post.paperurl %}
