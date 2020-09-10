@@ -178,7 +178,7 @@ defaults:
   # _courses
   - scope:
       path: ""
-      type: pages
+      type: courses
     values:
       layout: single
       author_profile: true
@@ -205,7 +205,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: pages
+      type: teaching
     values:
       layout: single
       read_time: false
