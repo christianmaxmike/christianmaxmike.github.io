@@ -52,11 +52,11 @@
     {% endif %}    
 
     {% if post.excerpt %}
-      {% if post.collection == "teaching" %}
+      <!--{% if post.collection == "teaching" %}
         <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-      {% endif %}
+      {% endif %}-->
       {% if post.collection == "courses" %}
-        <p class="archive__item-excerpt" itemprop="description">{{ markdownify }}</p>
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
       {% endif %}
     
     {% endif %}
