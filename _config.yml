@@ -178,7 +178,7 @@ defaults:
   # _courses
   - scope:
       path: ""
-      type: courses
+      type: pages
     values:
       layout: single
       author_profile: true
