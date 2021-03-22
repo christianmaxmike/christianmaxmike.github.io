@@ -36,7 +36,6 @@ My primary interests in research are:
 <li>Machine Learning and Deep Learning approaches applied on Knowledge Graphs</li>
 <li>Semantic Web and Linked Data</li>
 </ul>
-<br/>
 
 ## International research stays and cooperations
 <ul>
