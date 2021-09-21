@@ -26,15 +26,15 @@ My primary interests in research are:
 <!--<li>Graph clustering applications and methods</li>-->
 <!--<li>Online Optimization</li>-->
 <!--<li>Graph Databases/Mining/Exploration</li>-->
-<!--<li>Graph Exploration</li>-->
+<li>Graph Exploration</li>
 <!--<li>Graph Databases</li>-->
 <!--<li>Modeling and Querying Uncertain Spatio-Temporal Data</li>-->
 <!--<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>-->
 <!--<li>Uncertain Sensor Networks</li>-->
 <li>Heterogeneous Information Networks / Knowledge Graphs</li>
 <!--<li>Uncertain Data Stream Processing</li>-->
-<li>Machine Learning and Deep Learning approaches applied on Knowledge Graphs</li>
-<li>Semantic Web and Linked Data</li>
+<li>Machine Learning and Deep Learning approaches applied on Networks</li>
+<!--<li>Semantic Web and Linked Data</li>-->
 </ul>
 
 ## International research stays and cooperations
@@ -54,6 +54,7 @@ Peer reviewed for conferences in ...
 	<li>2018: <a href="https://icde2018.org">ICDE'18</a>, <a href="http://www.ict.griffith.edu.au/conferences/dasfaa2018/">DASFAA'18</a>, <a href="http://www.cikm2018.units.it/">CIKM'18</a></li>
 	<li>2019: <a href="http://vldb.org/2019/">VLDB'19</a></li>
 	<li>2020: <a href="https://www.siam.org/conferences/cm/conference/sdm20">SDM'20</a>, <a href="https://csit2020.org/dami/index.html">DAMI'20</a></li>
+	<li>2021: <a href="https://icdm2021.auckland.ac.nz">ICDM'21</a></li>
 </ul>
 
 Supervised Theses:
