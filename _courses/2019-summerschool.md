@@ -20,6 +20,6 @@ in python but is also able to load own datasets and use them as input for some m
 	<ul>
 		<li>Day 1 : Introduction in Python + Introduction in Data Analytics</li>
 		<li>Day 2 : How to do Machine Learning in Python?</li>
-		<li>Click <a href="https://www.dbs.ifi.lmu.de/~frey/courses_materials/2019_gsi">here</a> to get the ressource (usr+pwd required)
+		<li>Click <a href="https://www.dbs.ifi.lmu.de/~frey/courses_materials/2019_gsi">here</a> to get the ressource (usr+pwd required)</li>
 	</ul>
 </div>
