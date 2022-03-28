@@ -16,9 +16,6 @@ redirect_from:
 ## Images
 ![alt text](/images/500x300.png "Logo Title Text 1")-->
 
-
-I am a research assistant at <a href="http://www.uni-muenchen.de">Ludwig-Maximilians-Universit&auml;t (LMU)</a> in Munich at the Institute of Informatics. 
-
 ## Research 
 My primary interests in research are: 
 <ul>
