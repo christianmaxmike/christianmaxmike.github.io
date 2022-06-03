@@ -84,7 +84,7 @@ author:
   name             : "Christian Frey"
   avatar           : "https://christianmaxmike.github.io/images/photo-1531306728370-e2ebd9d7bb99.jpeg"
   bio              : "Research Assistant in AI/ML/DL at CAU, Kiel"
-  location         : ""
+  location         : 
   employer         : 
   googlescholar    : # https://scholar.google.com/citations?user=hCNFekkAAAAJ
   email            : christianmaxmike@gmail.com
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : # "christian-frey-81849511a"
+  linkedin         : "christian-m-m-frey-2128ab239"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
