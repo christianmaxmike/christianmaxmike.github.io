@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Christian Frey"
   avatar           : "https://christianmaxmike.github.io/images/photo-1531306728370-e2ebd9d7bb99.jpeg"
-  bio              : "Research Assistant in AI/ML/DL at LMU Munich"
-  location         : "<a href='https://www.google.com/maps/search/oettingenstraße+67/@38.4483124,-122.6715335,8z/data=!3m1!4b1'>Munich</a>"
+  bio              : "Research Assistant in AI/ML/DL at CAU, Kiel"
+  location         : ""
   employer         : 
   googlescholar    : # https://scholar.google.com/citations?user=hCNFekkAAAAJ
   email            : christianmaxmike@gmail.com
