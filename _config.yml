@@ -82,11 +82,11 @@ analytics:
 # Site Author
 author:
   name             : "Christian Frey"
-  avatar           : "https://christianmaxmike.github.io/images/photo-1531306728370-e2ebd9d7bb99.jpeg"
+  avatar           : "https://christianmaxmike.github.io/images/20220922_004547.jpeg"
   bio              : "Research Assistant in AI/ML/DL at CAU, Kiel"
   location         : 
   employer         : 
-  googlescholar    : # https://scholar.google.com/citations?user=hCNFekkAAAAJ
+  googlescholar    : https://scholar.google.com/citations?user=hCNFekkAAAAJ
   email            : christianmaxmike@gmail.com
   uri              : 
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   xing             : # Christian_Frey84
   youtube          :
   wikipedia        :
-  dblp             : # http://dblp.uni-trier.de/pers/hd/f/Frey:Christian
+  dblp             : http://dblp.uni-trier.de/pers/hd/f/Frey:Christian
   researchgate     : # https://www.researchgate.net/profile/Christian_Frey7
 
 include: 
