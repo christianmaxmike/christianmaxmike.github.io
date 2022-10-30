@@ -12,8 +12,8 @@ main:
   - title: "Courses"
     url: /courses/
 
-#  - title: "MindNotes"
-#    url: /mindnotes/
+  - title: "MindNotes"
+    url: /mindnotes/
     
   - title: "About"
     url: /about/
