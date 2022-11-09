@@ -2,14 +2,14 @@
 title: "Reinforcement Learning - Fundamentals"
 topic: rl
 collection: rl
-permalink: /mindnotes/ml-fundamentals
+permalink: /mindnotes/rl-fundamentals
 ---
 
 
 <img src="logo_cmmf.png"
      alt="Markdown Monster icon"
      style="float: right" />
-# MindNote - Machine Learning - Reinforcement Learning
+# MindNote - Deep Learning - Reinforcement Learning
 
 **Author: Christian M.M. Frey**  
 **E-Mail: <christianmaxmike@gmail.com>**
