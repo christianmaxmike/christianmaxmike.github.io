@@ -30,6 +30,16 @@ This series will grow with time and should not be considered as being in a final
 {% endfor %}
 
 <hr>
+<h2>Reinforcement Learning</h2>
+<hr>
+{% for post in site.mindnotes %}
+    {% if post.topic == "rl" %}
+      {% include archive-single.html %}
+    {% endif %}
+{% endfor %}
+
+
+<hr>
 <h2>Data Mining - Sequence Mining</h2>
 <hr>
 {% for post in site.mindnotes %}
