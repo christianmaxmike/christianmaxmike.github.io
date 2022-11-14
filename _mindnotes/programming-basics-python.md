@@ -692,12 +692,11 @@ plt.show()
     [3. 5. 6. 7.]
 
 
-
-![png](output_60_1.png)
-
+![png](img/programming-basics/output_60_1.png)
 
 
-![png](output_60_2.png)
+
+![png](img/programming-basics/output_60_2.png)
 
 
     [13.038404810405298, 10.63014581273465, 13.45362404707371, 17.029386365926403]
@@ -707,7 +706,7 @@ plt.show()
 
 
 
-![png](output_60_4.png)
+![png](img/programming-basics/output_60_4.png)
 
 
 # End of this MindNote
