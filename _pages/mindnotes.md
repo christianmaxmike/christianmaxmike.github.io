@@ -12,6 +12,16 @@ This series will grow with time and should not be considered as being in a final
 
 <h1>Practical Training</h1>
 <hr>
+<h2>Programming Basics</h2>
+<hr>
+{% for post in site.mindnotes %}
+    {% if post.topic == "programming-basics" %}
+      {% include archive-single.html %}
+    {% endif %}
+{% endfor %}
+
+
+<hr>
 <h2>Machine Learning - Unsupervised Learning - Clustering</h2>
 <hr>
 {% for post in site.mindnotes %}
