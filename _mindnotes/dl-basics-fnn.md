@@ -1,5 +1,5 @@
 ---
-title: "Perceptron"
+title: "Feed Forward Neural Network"
 topic: dl-basics
 collection: dl-basics
 permalink: /mindnotes/dl-basics-ffnn
