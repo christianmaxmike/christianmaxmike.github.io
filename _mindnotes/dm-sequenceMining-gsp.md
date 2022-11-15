@@ -1,5 +1,5 @@
 ---
-title: "GSP"
+title: "Generalized Sequential Pattern (GSP)"
 topic: dm-sequenceMining
 collection: dm-sequenceMining
 permalink: /mindnotes/dm-sequenceMining-gsp
