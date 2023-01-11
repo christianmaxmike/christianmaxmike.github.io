@@ -6,7 +6,7 @@ location: "Munich, Germany"
 ---
 
 <h4>12/12/19 - 12/13/19 - Introductory Programming Course for political and communication scientists</h4>
-<div><strong>Audience:</strong> Research Assistants of GSI (<a href="https://www.gsi.uni-muenchen.de/index.html">Geschiwster-Scholl-Institut für Politikwissenschaft</a>) and communication scientists (<a href="https://www.ifkw.uni-muenchen.de/index.html">Institut für Kommunikationswissenschaft und Medienforschung</a>)</div>
+<div><strong>Audience:</strong> Research Assistants of GSI (<a href="https://www.gsi.uni-muenchen.de/index.html">Geschwister-Scholl-Institut für Politikwissenschaft</a>) and communication scientists (<a href="https://www.ifkw.uni-muenchen.de/index.html">Institut für Kommunikationswissenschaft und Medienforschung</a>)</div>
 <div><strong>Requirements:</strong> None</div>
 <p>
 <strong>Content:</strong><br/>
