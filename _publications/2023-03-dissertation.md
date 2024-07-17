@@ -1,5 +1,5 @@
 ---
-title: "Learning from Complex Networks"
+title: "[Dissertation] Learning from Complex Networks"
 collection: publications
 permalink: /publications/2023-03-dissertation
 venue: 'LMU Munich'
