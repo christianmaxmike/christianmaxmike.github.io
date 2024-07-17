@@ -23,14 +23,17 @@ My primary interests in research are:
 <!--<li>Graph clustering applications and methods</li>-->
 <!--<li>Online Optimization</li>-->
 <!--<li>Graph Databases/Mining/Exploration</li>-->
-<li>Graph Exploration</li>
+<!--<li>Graph Exploration</li>-->
+<li>Learning on Tabular Data</li>
+<li>Hyperparameter Optimization</li>
+<li>Data-efficient Learning</li>
 <!--<li>Graph Databases</li>-->
 <!--<li>Modeling and Querying Uncertain Spatio-Temporal Data</li>-->
 <!--<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>-->
 <!--<li>Uncertain Sensor Networks</li>-->
-<li>Heterogeneous Information Networks / Knowledge Graphs</li>
+<!--<li>Heterogeneous Information Networks / Knowledge Graphs</li>-->
 <!--<li>Uncertain Data Stream Processing</li>-->
-<li>Machine Learning and Deep Learning approaches applied on Networks</li>
+<!--<li>Machine Learning and Deep Learning approaches applied on Networks</li>-->
 <!--<li>Semantic Web and Linked Data</li>-->
 </ul>
 
@@ -53,6 +56,7 @@ Peer reviewed for conferences in ...
 	<li>2020: <a href="https://www.siam.org/conferences/cm/conference/sdm20">SDM'20</a>, <a href="https://csit2020.org/dami/index.html">DAMI'20</a></li>
 	<li>2021: <a href="https://icdm2021.auckland.ac.nz">ICDM'21</a>, <a href="https://2021.ecmlpkdd.org">ECMLPKDD'21</a></li>
 	<li>2023: <a href="https://2023.sigmod.org/">SIGMOD'23</a>, <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR'23</a></li>
+	<li>2024: <a href="https://ecmlpkdd.org/2024/">ECML PKDD'24 [PC Member]</li>
 </ul>
 
 Supervised Theses:
