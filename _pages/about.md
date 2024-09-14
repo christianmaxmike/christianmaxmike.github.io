@@ -58,7 +58,7 @@ Peer reviewed for conferences in ...
 	<li>2020: <a href="https://www.siam.org/conferences/cm/conference/sdm20">SDM'20</a>, <a href="https://csit2020.org/dami/index.html">DAMI'20</a></li>
 	<li>2021: <a href="https://icdm2021.auckland.ac.nz">ICDM'21</a>, <a href="https://2021.ecmlpkdd.org">ECMLPKDD'21</a></li>
 	<li>2023: <a href="https://2023.sigmod.org/">SIGMOD'23</a>, <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR'23</a></li>
-	<li>2024: <a href="https://ecmlpkdd.org/2024/">ECML PKDD'24 [PC Member]</a></li>
+	<li>2024: <a href="https://ecmlpkdd.org/2024/">ECML PKDD'24 [PC Member]</a>, <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR'24</a></li>
 </ul>
 
 Supervised Theses:
