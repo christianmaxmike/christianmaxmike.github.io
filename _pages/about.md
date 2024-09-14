@@ -17,7 +17,7 @@ redirect_from:
 ![alt text](/images/500x300.png "Logo Title Text 1")-->
 
 ## Research 
-My primary interests in research are: 
+My primary interests in research are [updated Sep-2024]:
 <ul>
 <li>Hyperparameter Optimization</li>
 <li>Data-efficient Learning</li>
