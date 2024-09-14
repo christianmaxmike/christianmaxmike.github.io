@@ -19,14 +19,16 @@ redirect_from:
 ## Research 
 My primary interests in research are: 
 <ul>
-<li>Graph Theory and Complex Networks</li>
+<li>Hyperparameter Optimization</li>
+<li>Data-efficient Learning</li>
+<li>Large Language Models</li>
+<li>AutoRL</li>
+<li>Learning on Tabular Data</li>
+<!--<li>Graph Theory and Complex Networks</li>-->
 <!--<li>Graph clustering applications and methods</li>-->
 <!--<li>Online Optimization</li>-->
 <!--<li>Graph Databases/Mining/Exploration</li>-->
 <!--<li>Graph Exploration</li>-->
-<li>Learning on Tabular Data</li>
-<li>Hyperparameter Optimization</li>
-<li>Data-efficient Learning</li>
 <!--<li>Graph Databases</li>-->
 <!--<li>Modeling and Querying Uncertain Spatio-Temporal Data</li>-->
 <!--<li>Probabilistic Query Processing and Similarity Search in Uncertain Data</li>-->
