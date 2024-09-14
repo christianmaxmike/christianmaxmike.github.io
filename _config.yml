@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Dr. Christian M. M. Frey"
   avatar           : "https://christianmaxmike.github.io/images/frey_2.jpg"
-  bio              : "AI Researcher in AI/ML/DL at Fraunhofer IIS; Lecturer@Uni Bamberg"
+  bio              : "Postdoctoral Researcher Machine Learning, Akademischer Rat at UTN; formerly Lecturer@Uni Bamberg"
   location         : 
   employer         : 
   googlescholar    : https://scholar.google.com/citations?user=hCNFekkAAAAJ
@@ -101,7 +101,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         : "christian-m-m-frey"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-2458-6651"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -111,7 +111,7 @@ author:
   vine             :
   weibo            :
   xing             : # Christian_Frey84
-  youtube          :
+  youtube          : "https://www.youtube.com/@chrismaxmike"
   wikipedia        :
   dblp             : https://dblp.org/pid/304/7977.html
   researchgate     : # https://www.researchgate.net/profile/Christian_Frey7
