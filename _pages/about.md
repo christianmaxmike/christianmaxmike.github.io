@@ -9,21 +9,28 @@ redirect_from:
 ---
 
 <!--This is the front page of your Github pages website! This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. 
-
 <!-- You can use all kinds of markdown here. See [the guide](/markdown/). -->
-
 <!-- 
 ## Images
 ![alt text](/images/500x300.png "Logo Title Text 1")-->
 
+
+Dr. Christian M. M. Frey studied (Media) Informatics at the Ludwig-Maximilian University. Afterward, he worked as a research assistant in the field of network analysis and graph theory at the Ludwig-Maximilian University of Munich and Christian-Albrecht University of Kiel, Germany. His dissertation is titled 'Learning from Complex Networks' and he received his Ph.D. degree (Dr.rer.nat.) in Informatics in June 2023. He then worked in the Department Analytics in the group of Supply Chain Management at the Fraunhofer IIS, Nuremberg, as Senior Scientist, where he led the research projects from a strategic and conceptional view, and supervised a PhD student in collaboration with the LMU. In winter term 2023/2024, he also worked as a lecturer for his "Data Science in Supply Chain Management" lecture at the Otto-Friedrich University of Bamberg.
+
+Currently, he works as an academic advisor (dt., Akademischer Rat) in the Machine Learning Lab at the University of
+Technology of Nuremberg (UTN), Germany. In his current position, his research focuses on foundation models, tabular data, reinforcement learning and optimization techniques.
+
+
 ## Research 
-My primary interests in research are [updated Sep-2024]:
+My primary interests in research are [updated Aug-2025]:
 <ul>
-<li>Hyperparameter Optimization</li>
-<li>Data-efficient Learning</li>
+<!--<li>Hyperparameter Optimization</li>-->
+<li>Foundation Models</li>
 <li>Large Language Models</li>
-<li>AutoRL</li>
 <li>Learning on Tabular Data</li>
+<li>Neural Combinatorial Optimization</li>
+<li>Data-efficient Learning</li>
+<!--<li>AutoRL</li>-->
 <!--<li>Graph Theory and Complex Networks</li>-->
 <!--<li>Graph clustering applications and methods</li>-->
 <!--<li>Online Optimization</li>-->
