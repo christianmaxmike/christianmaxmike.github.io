@@ -14,6 +14,20 @@ redirect_from:
 ## Images
 ![alt text](/images/500x300.png "Logo Title Text 1")-->
 
+## News
+<ul>
+	<!--<li>2025-10-01: Teacher for "Machine Learning" at University of Technology Nuremberg - W25/26</li>-->
+	<li>2025-09-03: Runner-up Best Student Paper Award for our paper "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at International Conference on Business Process Management 2025</li>
+	<li>2025-08-18: Paper accept "SHAining on Process Mining: Explaining Event Log Characteristics Impact on Algorithms" at ICPM 2025</li>
+	<li>2025-05-08: Paper accept "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at BPM 2025</li>
+	<li>2025-04-01: Teaching assistant for "Deep Learning (Basic Module)" - S25</li>
+	<li>2025-02-14: New arXiv paper: "Is Deep Learning finally better than Decision Trees on Tabular Data?" [<a href="https://arxiv.org/abs/2402.03970">Link</a>]</li>
+	<li>2025-10-01: Teaching assistant for "Large Language Models (Advanced Module) - W24/25"</li>
+	<li>2024-09-18: Paper accept "iGEDI: interactive Generating Event Data with Intentional Features (Extended Abstract" at ICPM Demos Track 2024</li>
+	<li>2024-09-01: Joined Machine Learning Lab at University of Technology Nuremberg</li>
+</ul>
+
+## Short Bio
 
 Dr. Christian M. M. Frey studied (Media) Informatics at the Ludwig-Maximilian University. Afterward, he worked as a research assistant in the field of network analysis and graph theory at the Ludwig-Maximilian University of Munich and Christian-Albrecht University of Kiel, Germany. His dissertation is titled 'Learning from Complex Networks' and he received his Ph.D. degree (Dr.rer.nat.) in Informatics in June 2023. He then worked in the Department Analytics in the group of Supply Chain Management at the Fraunhofer IIS, Nuremberg, as Senior Scientist, where he led the research projects from a strategic and conceptional view, and supervised a PhD student in collaboration with the LMU. In winter term 2023/2024, he also worked as a lecturer for his "Data Science in Supply Chain Management" lecture at the Otto-Friedrich University of Bamberg.
 
