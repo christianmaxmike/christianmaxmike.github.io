@@ -24,7 +24,7 @@ redirect_from:
 	<li>2025-02-14: New arXiv paper: "Is Deep Learning finally better than Decision Trees on Tabular Data?" [<a href="https://arxiv.org/abs/2402.03970">Link</a>]</li>
 	<li>2025-10-01: Teaching assistant for "Large Language Models (Advanced Module) - W24/25"</li>
 	<li>2024-09-18: Paper accept "iGEDI: interactive Generating Event Data with Intentional Features (Extended Abstract" at ICPM Demos Track 2024</li>
-	<li>2024-09-01: Joined Machine Learning Lab at University of Technology Nuremberg</li>
+	<li>2024-09-01: New PostDoc Position: Joined Machine Learning Lab at University of Technology Nuremberg (UTN)</li>
 </ul>
 
 ## Short Bio
