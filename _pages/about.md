@@ -17,14 +17,17 @@ redirect_from:
 ## News
 <ul>
 	<!--<li>2025-10-01: Teacher for "Machine Learning" at University of Technology Nuremberg - W25/26</li>-->
-	<li>2025-09-03: Runner-up Best Student Paper Award for our paper "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at International Conference on Business Process Management 2025</li>
-	<li>2025-08-18: Paper accept "SHAining on Process Mining: Explaining Event Log Characteristics Impact on Algorithms" at ICPM 2025</li>
-	<li>2025-05-08: Paper accept "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at BPM 2025</li>
-	<li>2025-04-01: Teaching assistant for "Deep Learning (Basic Module)" - S25</li>
-	<li>2025-02-14: New arXiv paper: "Is Deep Learning finally better than Decision Trees on Tabular Data?" [<a href="https://arxiv.org/abs/2402.03970">Link</a>]</li>
-	<li>2025-10-01: Teaching assistant for "Large Language Models (Advanced Module) - W24/25"</li>
-	<li>2024-09-18: Paper accept "iGEDI: interactive Generating Event Data with Intentional Features (Extended Abstract)" at ICPM Demos Track 2024</li>
-	<li>2024-09-01: New PostDoc Position: Joined Machine Learning Lab at University of Technology Nuremberg (UTN)</li>
+	<li>2025-11-24: 📜 Research track chairs of this year's ECMLPKDD awarded me a "Distinguished Program Committee Member" certificate</li>
+	<li>2025-10-22: 📝 New arXiv paper: Zhyper: "Factorized Hypernetworks for Conditioned LLM Fine-Tuning" [<a href="https://arxiv.org/abs/2510.19733">Link</a>]</li>
+	<li>2025-10-01: 👨‍🏫 Lecturer for 'Machine Learning' - WT25/26</li>
+	<li>2025-09-03: 🏅 Runner-up Best Student Paper Award for our paper "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at International Conference on Business Process Management 2025</li>
+	<li>2025-08-18: 📝✅ Paper accept "SHAining on Process Mining: Explaining Event Log Characteristics Impact on Algorithms" at ICPM 2025</li>
+	<li>2025-05-08: 📝✅ Paper accept "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at BPM 2025</li>
+	<li>2025-04-01: 👨‍🏫 Teaching assistant for "Deep Learning (Basic Module)" - S25</li>
+	<li>2025-02-14: 📝 New arXiv paper: "Is Deep Learning finally better than Decision Trees on Tabular Data?" [<a href="https://arxiv.org/abs/2402.03970">Link</a>]</li>
+	<li>2025-10-01: 👨‍🏫 Teaching assistant for "Large Language Models (Advanced Module) - W24/25"</li>
+	<li>2024-09-18: 📝✅ Paper accept "iGEDI: interactive Generating Event Data with Intentional Features (Extended Abstract)" at ICPM Demos Track 2024</li>
+	<li>2024-09-01: 🏢 New PostDoc Position: Joined Machine Learning Lab at University of Technology Nuremberg (UTN)</li>
 </ul>
 
 ## Short Bio
