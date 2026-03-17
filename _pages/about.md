@@ -22,6 +22,7 @@ redirect_from:
 	<li><code>2026-02-17:</code> 📝 New arXiv paper: POP: Prior-fitted Optimizer Policies [<a href="https://arxiv.org/abs/2602.15473">Link</a>]</li>
 	<li><code>2026-02-05:</code> 📝 New arXiv paper: End-to-End Compression for Tabular Foundation Models [<a href="https://arxiv.org/abs/2602.05649">Link</a>]</li>	
 </ul>
+
 ### 2025:
 <ul>
 	<li><code>2025-12-18:</code> 📝 New arXiv paper: Towards Reproducibility in Predictive Process Mining: SPICE [<a href="https://arxiv.org/abs/2512.16715">Link</a>]</li>
@@ -37,6 +38,7 @@ redirect_from:
 	<li><code>2025-02-14:</code> 📝 New arXiv paper: "Is Deep Learning finally better than Decision Trees on Tabular Data?" [<a href="https://arxiv.org/abs/2402.03970">Link</a>]</li>
 	<li><code>2025-10-01:</code> 👨‍🏫 Teaching assistant for "Large Language Models (Advanced Module) - W24/25"</li>
 </ul>
+
 ### 2024:
 <ul>
 	<li><code>2024-09-18:</code> ✅ Paper accept "iGEDI: interactive Generating Event Data with Intentional Features (Extended Abstract)" at ICPM Demos Track 2024</li>
