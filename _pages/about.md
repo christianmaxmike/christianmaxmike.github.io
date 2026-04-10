@@ -17,6 +17,8 @@ redirect_from:
 ## News
 ### 2026:
 <ul>
+	<li><code>2026-04-07:</code> 📝 New arXiv paper: ValueGround: Evaluating Culture-Conditioned
+Visual Value Grounding in MLLMs [<a href="https://arxiv.org/pdf/2604.06484">Link</a>]</li>
 	<li><code>2026-04-01:</code> 👨‍🏫 Lecturer for 'Deep Learning' (Human and Artificial Intelligence Program @UTN) - ST 26</li>	
 	<li><code>2026-03-15:</code> 📝 New arXiv paper: Learning to Order: Task Sequencing as In-Context Optimization [<a href="https://arxiv.org/abs/2603.14550">Link</a>]</li>
 	<li><code>2026-02-17:</code> 📝 New arXiv paper: POP: Prior-fitted Optimizer Policies [<a href="https://arxiv.org/abs/2602.15473">Link</a>]</li>
