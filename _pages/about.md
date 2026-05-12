@@ -29,7 +29,7 @@ Visual Value Grounding in MLLMs [<a href="https://arxiv.org/pdf/2604.06484">Link
 ### 2025:
 <ul>
 	<li><code>2025-12-18:</code> 📝 New arXiv paper: Towards Reproducibility in Predictive Process Mining: SPICE [<a href="https://arxiv.org/abs/2512.16715">Link</a>]</li>
-	<li><code>2025-11-24:</code> 📜 Research track chairs of this year's ECMLPKDD awarded me a "Distinguished Program Committee Member" certificate</li>
+	<li><code>2025-11-24:</code> 🎖️ Research track chairs of ECMLPKDD'25 awarded me a "Distinguished Program Committee Member" certificate</li>
 	<li><code>2025-10-22:</code> 📝 New arXiv paper: Zhyper: Factorized Hypernetworks for Conditioned LLM Fine-Tuning [<a href="https://arxiv.org/abs/2510.19733">Link</a>]</li>
 	<li><code>2025-10-22:</code> 📝 New ResearchSquare paper: Hierarchical Structuring of Bilaterally Expanding Subtrace Patterns [<a href="https://assets-eu.researchsquare.com/files/rs-8244758/v1_covered_c819b1b8-12b0-40ec-ad93-736e351a66e9.pdf?c=1765989094">Link</a>]</li>
 	<li><code>2025-10-01:</code> 👨‍🏫 Lecturer for 'Artificial Intelligence' (Human and Artificial Intelligence Program @UTN) - WT25/26</li>
