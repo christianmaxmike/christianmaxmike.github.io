@@ -17,6 +17,7 @@ redirect_from:
 ## News
 ### 2026:
 <ul>
+	<li><code>2025-04-30:</code> ✅ Paper accept "End-to-End Compression for Tabular Foundation Models" at ICML26 - spotlight paper (top 2.2% of all submissions)</li>
 	<li><code>2026-04-07:</code> 📝 New arXiv paper: ValueGround: Evaluating Culture-Conditioned
 Visual Value Grounding in MLLMs [<a href="https://arxiv.org/pdf/2604.06484">Link</a>]</li>
 	<li><code>2026-04-01:</code> 👨‍🏫 Lecturer for 'Deep Learning' (Human and Artificial Intelligence Program @UTN) - ST 26</li>	
