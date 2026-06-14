@@ -42,6 +42,7 @@ Visual Value Grounding in MLLMs [<a href="https://arxiv.org/pdf/2604.06484">Link
 	<li><code>2025-09-03:</code> 🏅 Runner-up Best Student Paper Award for our paper "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at International Conference on Business Process Management 2025</li>
 	<li><code>2025-08-18:</code> ✅ Paper accept "SHAining on Process Mining: Explaining Event Log Characteristics Impact on Algorithms" at ICPM 2025</li>
 	<li><code>2025-05-08:</code> ✅ Paper accept "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at BPM 2025</li>
+	<li><code>2025-04-03:</code> 🚀 citations counts: 100</li>
 	<li><code>2025-04-01:</code> 👨‍🏫 Teaching assistant for "Deep Learning (Basic Module)" - S25</li>
 	<li><code>2025-02-14:</code> 📝 New arXiv paper: "Is Deep Learning finally better than Decision Trees on Tabular Data?" [<a href="https://arxiv.org/abs/2402.03970">Link</a>]</li>
 	<li><code>2025-10-01:</code> 👨‍🏫 Teaching assistant for "Large Language Models (Advanced Module) - W24/25"</li>
