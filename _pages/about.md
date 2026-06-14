@@ -18,7 +18,7 @@ redirect_from:
 ### 2026:
 <ul>
 	<li><code>2026-06-01:</code>✅ Paper accept for Process Science journal 'Hierarchical Structuring of Bilaterally Expanding Subtrace Patterns for Efficient Tree-based Activity Suffix Prediction - flagship journal of the Process Science Association</li>
-	<li><code>2026-05-24:</code> 🚀 increase h-index: 8</li>
+	<li><code>2026-06-03:</code> 🚀 increase h-index: 8</li>
 	<li><code>2026-05-13:</code> 🎖️ Program chairs of ICML'26 recognized me as a <b>Gold Reviewer</b></li>	
 	<li><code>2026-04-30:</code> ✅ Paper accept "End-to-End Compression for Tabular Foundation Models" at ICML26 - spotlight paper (top 2.2% of all submissions)</li>
 	<li><code>2026-04-07:</code> 📝 New arXiv paper: ValueGround: Evaluating Culture-Conditioned
@@ -33,6 +33,7 @@ Visual Value Grounding in MLLMs [<a href="https://arxiv.org/pdf/2604.06484">Link
 <details>
 	<summary>News from 2025</summary>
 <ul>
+	<li><code>2025-12-19:</code> 🚀 increase h-index: 7</li>
 	<li><code>2025-12-18:</code> 📝 New arXiv paper: Towards Reproducibility in Predictive Process Mining: SPICE [<a href="https://arxiv.org/abs/2512.16715">Link</a>]</li>
 	<li><code>2025-11-24:</code> 🎖️ Research track chairs of ECMLPKDD'25 awarded me a "Distinguished Program Committee Member" certificate</li>
 	<li><code>2025-10-22:</code> 📝 New arXiv paper: Zhyper: Factorized Hypernetworks for Conditioned LLM Fine-Tuning [<a href="https://arxiv.org/abs/2510.19733">Link</a>]</li>
