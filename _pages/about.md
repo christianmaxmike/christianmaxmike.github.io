@@ -17,7 +17,7 @@ redirect_from:
 ## News
 ### 2026:
 <ul>
-	<li><code>2026-06-15: ✅ Paper accept for Transactions on Machine Learning Research (TMLR): 'Tabular Learning Revisited: An Empirical Study of Tabular Classification'</code></li>
+	<li><code>2026-06-15:</code> ✅ Paper accept for Transactions on Machine Learning Research (TMLR): 'Tabular Learning Revisited: An Empirical Study of Tabular Classification'</li>
 	<li><code>2026-06-01:</code>✅ Paper accept for Process Science journal 'Hierarchical Structuring of Bilaterally Expanding Subtrace Patterns for Efficient Tree-based Activity Suffix Prediction - flagship journal of the Process Science Association</li>
 	<li><code>2026-06-03:</code> 🚀 increase h-index: 8</li>
 	<li><code>2026-05-13:</code> 🎖️ Program chairs of ICML'26 recognized me as a <b>Gold Reviewer</b></li>	
