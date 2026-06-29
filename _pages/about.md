@@ -17,7 +17,7 @@ redirect_from:
 ## News
 ### 2026:
 <ul>
-	<li><code>2026-06-15:</code> ✅ Paper accept for Transactions on Machine Learning Research (TMLR): 'Tabular Learning Revisited: An Empirical Study of Tabular Classification'</li>
+	<li><code>2026-06-26:</code> ✅ Paper accept for Transactions on Machine Learning Research (TMLR): 'Tabular Learning Revisited: An Empirical Study of Tabular Classification' [<a href="https://openreview.net/pdf?id=I8BIGp4XOb">Link</a>]</li>
 	<li><code>2026-06-01:</code> ✅ Paper accept for Process Science journal 'Hierarchical Structuring of Bilaterally Expanding Subtrace Patterns for Efficient Tree-based Activity Suffix Prediction' [<a href="https://link.springer.com/article/10.1007/s44311-026-00050-y">Link</a>] - flagship journal of the Process Science Association</li>
 	<li><code>2026-06-03:</code> 🚀 increase h-index: 8</li>
 	<li><code>2026-05-13:</code> 🎖️ Program chairs of ICML'26 recognized me as a <b>Gold Reviewer</b></li>	
@@ -114,7 +114,7 @@ Peer reviewed for conferences in ...
 	<li>2023: <a href="https://2023.sigmod.org/">SIGMOD'23</a>, <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR'23</a></li>
 	<li>2024: <a href="https://ecmlpkdd.org/2024/">ECML PKDD'24 [PC Member]</a>, <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR'24</a></li>
 	<li>2025: <a href="https://ecmlpkdd.org/2025/">ECML PKDD'25 [PC Member]</a>, <a href="https://logconference.org/">LOG'25</a></li>
-	<li>2026: <a href="https://icml.cc/Conferences/2026">ICML '26</a>, <a href="https://ecmlpkdd.org/2026/">ECML PKDD'26 [PC Member]</a></li>
+	<li>2026: <a href="https://icml.cc/Conferences/2026">ICML '26</a>, <a href="https://ecmlpkdd.org/2026/">ECML PKDD'26 [PC Member]</a>, <a href="https://neurips.cc/Conferences/2026">NeurIPS'26</a>, <a href="https://icdm2026.neu.edu.cn">ICDM'26</a>, <a href="https://logconference.org">LOG'26</a></li>
 </ul>
 
 Supervised Theses:
