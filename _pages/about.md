@@ -114,7 +114,7 @@ Peer reviewed for conferences in ...
 	<li>2023: <a href="https://2023.sigmod.org/">SIGMOD'23</a>, <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR'23</a></li>
 	<li>2024: <a href="https://ecmlpkdd.org/2024/">ECML PKDD'24 [PC Member]</a>, <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR'24</a></li>
 	<li>2025: <a href="https://ecmlpkdd.org/2025/">ECML PKDD'25 [PC Member]</a>, <a href="https://logconference.org/">LOG'25</a></li>
-	<li>2026: <a href="https://icml.cc/Conferences/2026">ICML '26</a>, <a href="https://ecmlpkdd.org/2026/">ECML PKDD'26 [PC Member]</a>, <a href="https://neurips.cc/Conferences/2026">NeurIPS'26</a>, <a href="https://icdm2026.neu.edu.cn">ICDM'26</a>, <a href="https://logconference.org">LOG'26</a></li>
+	<li>2026: <a href="https://icml.cc/Conferences/2026">ICML '26</a>, <a href="https://ecmlpkdd.org/2026/">ECML PKDD'26 [PC Member]</a>, <a href="https://neurips.cc/Conferences/2026">NeurIPS'26</a>, <a href="https://icdm2026.neu.edu.cn">ICDM'26</a>, <a href="https://logconference.org">LOG'26</a><a href="https://aaai.org/conference/aaai/aaai-27/">AAAI'27 [PC Member]</a></li>
 </ul>
 
 Supervised Theses:
