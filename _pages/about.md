@@ -17,8 +17,8 @@ redirect_from:
 ## News
 ### 2026:
 <ul>
-	<li><code>2026-04-07:</code> 📝 New arXiv paper: Muffin - A Shared Memory Buffer for Asynchronous AI Agents [<a href="https://arxiv.org/pdf/2610.31355">Link</a>]</li>
-	<li><code>2026-04-07:</code> 📝 New arXiv paper: MuPACE: Learning to Pace Muon for LoRA Fine-Tuning [<a href="https://arxiv.org/pdf/2610.28072">Link</a>]</li>
+	<li><code>2026-10-22:</code> 📝 New arXiv paper: Muffin - A Shared Memory Buffer for Asynchronous AI Agents [<a href="https://arxiv.org/pdf/2610.31355">Link</a>]</li>
+	<li><code>2026-10-20:</code> 📝 New arXiv paper: MuPACE: Learning to Pace Muon for LoRA Fine-Tuning [<a href="https://arxiv.org/pdf/2610.28072">Link</a>]</li>
 	<li><code>2026-09-29:</code> 🚀 Citations count: 250+ </li>
 	<li><code>2026-09-20:</code> 🚀 increase h-index: 9</li>
 	<li><code>2026-06-26:</code> ✅ Paper accept for Transactions on Machine Learning Research (TMLR): 'Tabular Learning Revisited: An Empirical Study of Tabular Classification' [<a href="https://openreview.net/pdf?id=I8BIGp4XOb">Link</a>]</li>
