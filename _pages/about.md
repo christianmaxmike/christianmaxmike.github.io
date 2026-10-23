@@ -20,7 +20,7 @@ redirect_from:
 	<li><code>2026-10-22:</code> 📝 New arXiv paper: Muffin - A Shared Memory Buffer for Asynchronous AI Agents [<a href="https://arxiv.org/pdf/2610.31355">Link</a>]</li>
 	<li><code>2026-10-20:</code> 📝 New arXiv paper: MuPACE: Learning to Pace Muon for LoRA Fine-Tuning [<a href="https://arxiv.org/pdf/2610.28072">Link</a>]</li>
 	<li><code>2026-09-29:</code> 🚀 Citations count: 250+ </li>
-	<li><code>2026-09-20:</code> 🚀 increase h-index: 9</li>
+	<li><code>2026-09-20:</code> 🚀 Increase h-index: 9</li>
 	<li><code>2026-06-26:</code> ✅ Paper accept for Transactions on Machine Learning Research (TMLR): 'Tabular Learning Revisited: An Empirical Study of Tabular Classification' [<a href="https://openreview.net/pdf?id=I8BIGp4XOb">Link</a>]</li>
 	<li><code>2026-06-01:</code> ✅ Paper accept for Process Science journal 'Hierarchical Structuring of Bilaterally Expanding Subtrace Patterns for Efficient Tree-based Activity Suffix Prediction' [<a href="https://link.springer.com/article/10.1007/s44311-026-00050-y">Link</a>] - flagship journal of the Process Science Association</li>
 	<li><code>2026-06-03:</code> 🚀 increase h-index: 8</li>
