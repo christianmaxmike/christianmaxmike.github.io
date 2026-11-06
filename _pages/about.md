@@ -17,6 +17,7 @@ redirect_from:
 ## News
 ### 2026:
 <ul>
+	<li><code>2026-10-22:</code> 📝 New arXiv paper: When, Where, How: Active In-Context Learning for Tabular Foundation Models [<a href="https://arxiv.org/abs/2611.07886">Link</a>]</li>
 	<li><code>2026-11-02:</code> 🚀 Increase h-index: 10</li>
 	<li><code>2026-10-22:</code> 📝 New arXiv paper: Muffin - A Shared Memory Buffer for Asynchronous AI Agents [<a href="https://arxiv.org/pdf/2610.31355">Link</a>]</li>
 	<li><code>2026-10-20:</code> 📝 New arXiv paper: MuPACE: Learning to Pace Muon for LoRA Fine-Tuning [<a href="https://arxiv.org/pdf/2610.28072">Link</a>]</li>
