@@ -17,19 +17,21 @@ redirect_from:
 ## News
 ### 2026:
 <ul>
+	<li><code>2026-11-13:</code> ✅ Paper accepted to Findings of the Association for Computational Linguistics: EACL 2027 for “ValueGround: Evaluating Culture-Conditioned Visual Value Grounding in MLLMs.”</li>
 	<li><code>2026-11-06:</code> 📝 New arXiv paper: FondueQA: A Benchmark for Evaluating Parametric Compensation in Multi-Hop QA [<a href="https://arxiv.org/abs/2611.09274">Link</a>]</li>	
 	<li><code>2026-11-05:</code> 📝 New arXiv paper: When, Where, How: Active In-Context Learning for Tabular Foundation Models [<a href="https://arxiv.org/abs/2611.07886">Link</a>]</li>
 	<li><code>2026-11-02:</code> 🚀 Increase h-index: 10</li>
 	<li><code>2026-10-22:</code> 📝 New arXiv paper: Muffin - A Shared Memory Buffer for Asynchronous AI Agents [<a href="https://arxiv.org/pdf/2610.31355">Link</a>]</li>
 	<li><code>2026-10-20:</code> 📝 New arXiv paper: MuPACE: Learning to Pace Muon for LoRA Fine-Tuning [<a href="https://arxiv.org/pdf/2610.28072">Link</a>]</li>
 	<li><code>2026-10-11:</code> 🎖️ NeurIPS'26 recognized me as a <b>Top Reviewer</b></li>
+	<li><code>2026-10-01:</code> 👨‍🏫 Lecturer for 'Machine Learning' at UTN - WT26/27</li>
 	<li><code>2026-09-29:</code> 🚀 Citations count: 250+ </li>
 	<li><code>2026-09-20:</code> 🚀 Increase h-index: 9</li>
-	<li><code>2026-06-26:</code> ✅ Paper accept for Transactions on Machine Learning Research (TMLR): 'Tabular Learning Revisited: An Empirical Study of Tabular Classification' [<a href="https://openreview.net/pdf?id=I8BIGp4XOb">Link</a>]</li>
-	<li><code>2026-06-01:</code> ✅ Paper accept for Process Science journal 'Hierarchical Structuring of Bilaterally Expanding Subtrace Patterns for Efficient Tree-based Activity Suffix Prediction' [<a href="https://link.springer.com/article/10.1007/s44311-026-00050-y">Link</a>] - flagship journal of the Process Science Association</li>
+	<li><code>2026-06-26:</code> ✅ Paper accepted to Transactions on Machine Learning Research (TMLR) for 'Tabular Learning Revisited: An Empirical Study of Tabular Classification' [<a href="https://openreview.net/pdf?id=I8BIGp4XOb">Link</a>]</li>
+	<li><code>2026-06-01:</code> ✅ Paper accepted for Process Science journal 'Hierarchical Structuring of Bilaterally Expanding Subtrace Patterns for Efficient Tree-based Activity Suffix Prediction' [<a href="https://link.springer.com/article/10.1007/s44311-026-00050-y">Link</a>] - flagship journal of the Process Science Association</li>
 	<li><code>2026-06-03:</code> 🚀 increase h-index: 8</li>
 	<li><code>2026-05-13:</code> 🎖️ Program chairs of ICML'26 recognized me as a <b>Gold Reviewer</b></li>	
-	<li><code>2026-04-30:</code> ✅ Paper accept "End-to-End Compression for Tabular Foundation Models" at ICML26 - spotlight paper (top 2.2% of all submissions)</li>
+	<li><code>2026-04-30:</code> ✅ Paper accepted for "End-to-End Compression for Tabular Foundation Models" at ICML26 - spotlight paper (top 2.2% of all submissions)</li>
 	<li><code>2026-04-07:</code> 📝 New arXiv paper: ValueGround: Evaluating Culture-Conditioned
 Visual Value Grounding in MLLMs [<a href="https://arxiv.org/pdf/2604.06484">Link</a>]</li>
 	<li><code>2026-04-01:</code> 👨‍🏫 Lecturer for 'Deep Learning' (Human and Artificial Intelligence Program @UTN) - ST 26</li>	
@@ -48,7 +50,7 @@ Visual Value Grounding in MLLMs [<a href="https://arxiv.org/pdf/2604.06484">Link
 	<li><code>2025-10-22:</code> 📝 New arXiv paper: Zhyper: Factorized Hypernetworks for Conditioned LLM Fine-Tuning [<a href="https://arxiv.org/abs/2510.19733">Link</a>]</li>
 	<li><code>2025-10-22:</code> 📝 New ResearchSquare paper: Hierarchical Structuring of Bilaterally Expanding Subtrace Patterns [<a href="https://assets-eu.researchsquare.com/files/rs-8244758/v1_covered_c819b1b8-12b0-40ec-ad93-736e351a66e9.pdf?c=1765989094">Link</a>]</li>
 	<li><code>2025-10-01:</code> 👨‍🏫 Lecturer for 'Artificial Intelligence' (Human and Artificial Intelligence Program @UTN) - WT25/26</li>
-	<li><code>2025-10-01:</code> 👨‍🏫 Lecturer for 'Machine Learning' - WT25/26</li>
+	<li><code>2025-10-01:</code> 👨‍🏫 Lecturer for 'Machine Learning' at UTN - WT25/26</li>
 	<li><code>2025-09-03:</code> 🏅 Runner-up Best Student Paper Award for our paper "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at International Conference on Business Process Management 2025</li>
 	<li><code>2025-08-18:</code> ✅ Paper accept "SHAining on Process Mining: Explaining Event Log Characteristics Impact on Algorithms" at ICPM 2025</li>
 	<li><code>2025-05-08:</code> ✅ Paper accept "BEST: Bilaterally Expanding Subtrace Tree for Event Sequence Prediction" at BPM 2025</li>
